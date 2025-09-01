@@ -1,6 +1,11 @@
 # character-tag-enhancerA1111-Ikarus-
 Smart character tag enhancement for AUTOMATIC1111 Stable Diffusion, without the use of any llm, just pure smart tag replacement ! Fully configurable alias and tags even lore can be used.
 # Character Tag Enhancer for AUTOMATIC1111
+<img width="1598" height="740" alt="image" src="https://github.com/user-attachments/assets/d315add2-2944-48f0-acd5-34312a369e71" />
+
+Character list:
+<img width="1251" height="513" alt="image" src="https://github.com/user-attachments/assets/b90b7fbb-a802-48f0-9769-af4f6529f187" />
+
 
 A powerful extension for AUTOMATIC1111 Stable Diffusion WebUI that automatically replaces character names in prompts with detailed Danbooru-style tags.
 
