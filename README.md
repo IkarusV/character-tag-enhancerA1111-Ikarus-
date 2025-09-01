@@ -1,4 +1,4 @@
-# character-tag-enhancerA1111-Ikarus-
+# Character-tag-enhancerA1111-Ikarus-
 Smart character tag enhancement for AUTOMATIC1111 Stable Diffusion, without the use of any llm, just pure smart tag replacement ! Fully configurable alias and tags even lore can be used.
 # Character Tag Enhancer for AUTOMATIC1111
 <img width="1598" height="740" alt="image" src="https://github.com/user-attachments/assets/d315add2-2944-48f0-acd5-34312a369e71" />
