@@ -33,7 +33,7 @@ A powerful extension for AUTOMATIC1111 Stable Diffusion WebUI that automatically
 5. Click **Install**
 6. ***Very important*** Put character_supplements.json in your *root stable diffusion webui forge folder*(You should find it in your extension folder, sorry for the hastle you can change it if you want in the extension i just got lazy to go into to many folder each time i wanted to change it.)
 7. Restart AUTOMATIC1111
-8. Tell me if it work for you.
+8. Tell me if it work for you !
 
 ### Method 2: Manual Installation
 
@@ -257,3 +257,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Made for myself, to go with my own open ai compatible llm tag converter, it grab prompt even from api request so be it a game or sillytavern or anywhere that use A1111 should work in theory.**
 
 ***If somebody really want, i don't mind sharing my other extension that go really well with this one, it was basically made for it.***
+
