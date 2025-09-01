@@ -1,0 +1,639 @@
+{
+  "_comment_header": "===== CHARACTER TAG ENHANCER DATABASE =====",
+  "_comment_usage": "Add characters with aliases and detailed Danbooru-style tags",
+  "_comment_naruto_characters": "===== NARUTO SERIES CHARACTERS =====",
+  "tsunade": {
+    "aliases": [
+      "tsunade",
+      "tsunade senju",
+      "fifth hokage",
+      "slug princess",
+      "hokage tsunade",
+      "test1"
+    ],
+    "tags": "tsunade, naruto_(series), 1girl, blonde_hair, large_breasts, hokage_robe, medical_ninja, amber_eyes, detailed_face, masterpiece"
+  },
+  "ino_yamanaka": {
+    "aliases": [
+      "ino_yamanaka",
+      "ino yamanaka",
+      "ino",
+      "ino from naruto",
+      "yamanaka ino"
+    ],
+    "tags": "ino_yamanaka, naruto_(series), 1girl, blonde_hair, blue_eyes, purple_outfit, mind_transfer, detailed_face"
+  },
+  "yuuhi_kurenai": {
+    "aliases": [
+      "yuuhi_kurenai",
+      "yuuhi kurenai",
+      "kurenai",
+      "kurenai yuuhi",
+      "kurenai from naruto"
+    ],
+    "tags": "yuuhi kurenai, naruto_(series), 1girl, lips, red eyes, black hair, long hair, large breasts, medium breasts, forehead protector, konohagakure symbol"
+  },
+  "mitarashi_anko": {
+    "aliases": [
+      "mitarashi_anko",
+      "mitarashi anko",
+      "anko",
+      "anko mitarashi",
+      "anko from naruto"
+    ],
+    "tags": "mitarashi anko, naruto_(series), 1girl, brown eyes, short hair, purple hair, black hair, large breasts, medium breasts, forehead protector, headband"
+  },
+  "konan": {
+    "aliases": [
+      "konan",
+      "konan akatsuki",
+      "paper angel",
+      "akatsuki konan"
+    ],
+    "tags": "konan, naruto_(series), 1girl, blue_hair, amber_eyes, paper_jutsu, akatsuki_member, detailed_face"
+  },
+  "naruko_uzumaki": {
+    "aliases": [
+      "naruko_uzumaki",
+      "naruko uzumaki",
+      "naruko",
+      "female naruto"
+    ],
+    "tags": "naruko_uzumaki, naruto_(series), 1girl, blonde_hair, blue_eyes, long_hair, twintails, whisker_markings, orange_jumpsuit, detailed_face"
+  },
+  "temari": {
+    "aliases": [
+      "temari",
+      "temari naruto",
+      "temari (naruto)"
+    ],
+    "tags": "temari_(naruto), naruto_(series), 1girl, blonde_hair, green_eyes, four_tails, large_breasts"
+  },
+  "tenten": {
+    "aliases": [
+      "tenten",
+      "tenten naruto",
+      "tenten (naruto)"
+    ],
+    "tags": "tenten_(naruto), naruto_(series), 1girl, brown_hair, brown_eyes, short_hair, double_bun, forehead_protector, medium_breasts"
+  },
+  "tayuya": {
+    "aliases": [
+      "tayuya",
+      "tayuya naruto",
+      "tayuya (naruto)"
+    ],
+    "tags": "tayuya_(naruto), naruto_(series), 1girl, red_hair, long_hair, ninja, flute"
+  },
+  "shizune": {
+    "aliases": [
+      "shizune",
+      "shizune naruto",
+      "shizune (naruto)"
+    ],
+    "tags": "shizune_(naruto), naruto_(series), 1girl, black_hair, black_eyes, short_hair"
+  },
+  "karin": {
+    "aliases": [
+      "karin",
+      "karin naruto",
+      "karin (naruto)"
+    ],
+    "tags": "karin_(naruto), naruto_(series), 1girl, red_hair, long_hair, red_eyes, glasses"
+  },
+  "Sakura": {
+    "aliases": [
+      "haruno sakura",
+      "sakura haruno",
+      "sakura_haruno",
+      "haruno_sakura",
+      "Sakura"
+    ],
+    "tags": "haruno sakura,  naruto_(series), 1girl, green eyes, pink hair, short hair"
+  },
+  "hyuuga hinata": {
+    "aliases": [
+      "hyuuga hinata",
+      "hinata",
+      "hinata hyuga",
+      "hyuuga_hinata",
+      "hinata_hyuga",
+      "Hinata"
+    ],
+    "tags": "<lora:Naruto_Series_Eyes_All_In_One_PONY_XL_by_UOC:1>, animeeyes, animedoujutsu, byakugan,hyuuga hinata, naruto \\(series\\), 1girl, white eyes, black hair, long hair, short hair, blunt bangs, large breasts,"
+  },
+  "hyuuga hanabi": {
+    "aliases": [
+      "Hanabi",
+      "hanabi",
+      "hyuuga hanabi",
+      "hanabi hyuuga",
+      "hanabi hyuuga",
+      "hanabi",
+      "hyuuga_hanabi",
+      "hanabi_hyuuga",
+      "hanabi_hyuuga"
+    ],
+    "tags": "<lora:Naruto_Series_Eyes_All_In_One_PONY_XL_by_UOC:1>, animeeyes, animedoujutsu, byakugan, hyuuga hanabi, naruto \\(series\\), 1girl, white eyes, hair between eyes, long hair, black hair, brown hair, very long hair, large breasts, collarbone"
+  },
+  "samui": {
+    "aliases": [
+      "samui",
+      "samui (naruto)",
+      "samui from naruto",
+      "naruto samui"
+    ],
+    "tags": ",<lora:samui-anime-illustriousxl-lora-nochekaiser:1>,samui,blonde hair,1girl,blue eyes,short hair,large breasts,bob cut,bangs,blunt bangs,cleavage,"
+  },
+  "ayame": {
+    "aliases": [
+      "ayame",
+      "ayame (naruto)",
+      "ichiraku ayame",
+      "ayame ichiraku",
+      "ayame_(naruto)",
+      "ayame from naruto",
+      "ramen girl"
+    ],
+    "tags": "<lora:Ayameアヤメ XL (NARUTO):1>,ayame_(naruto),score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, Ayame, white bandanna, brown hair, long hair, black eyes, (shiny eyes), smile"
+  },
+  "uchiha_sarada": {
+    "aliases": [
+      "uchiha_sarada",
+      "uchiha sarada",
+      "sarada",
+      "sarada uchiha",
+      "sarada from naruto"
+    ],
+    "tags": "uchiha sarada, naruto_(series), 1girl, black eyes, red eyes, glasses, red-framed eyewear, black hair, short hair, small breasts, bare shoulders, sharingan"
+  },
+  "uzumaki_himawari": {
+    "aliases": [
+      "uzumaki_himawari",
+      "uzumaki himawari",
+      "himawari",
+      "himawari uzumaki",
+      "naruto's daugther",
+      "himawari from naruto"
+    ],
+    "tags": "uzumaki himawari, naruto_(series), 1girl, blue eyes, short hair, black hair, ahoge, blunt bangs, whisker markings, facial mark"
+  },
+  "uzumaki_kushina": {
+    "aliases": [
+      "uzumaki_kushina",
+      "uzumaki kushina",
+      "kushina",
+      "kushina uzumaki",
+      "kushina from naruto",
+      "naruto's mother"
+    ],
+    "tags": "uzumaki kushina, naruto_(series), 1girl, blue eyes, red hair, long hair, very long hair, hairclip, large breasts"
+  },
+  "mirai_sarutobi": {
+    "aliases": [
+      "mirai_sarutobi",
+      "mirai sarutobi",
+      "sarutobi mirai",
+      "mirai",
+      "mirai from naruto"
+    ],
+    "tags": "<lora:mirai-sarutobi-anime-illustriousxl-lora-nochekaiser:1>, mirai sarutobi, black hair, red eyes, short hair, mature female, medium breasts"
+  },
+  "sumire_kakei": {
+    "aliases": [
+      "sumire_kakei",
+      "sumire kakei",
+      "kakei sumire",
+      "sumire",
+      "sumire from boruto"
+    ],
+    "tags": "<lora:Sumire_KakeiShigaraki_NarutoBoruto:1>, 1girl, sumire kakei, purple hair, sumire kakei (boruto), long hair, ponytail, purple eyes"
+  },
+  "terumi_mei": {
+    "aliases": [
+      "terumi_mei",
+      "terumi mei",
+      "mei terumi",
+      "mei",
+      "terumi mei from naruto"
+    ],
+    "tags": "terumi mei, naruto_(series), 1girl, lips, green eyes, hair over one eye, brown hair, very long hair, long hair, red hair, large breasts, cleavage, bare shoulders, nail polish"
+  },
+  "_comment_other_anime_characters": "===== OTHER ANIME CHARACTERS =====",
+  "zero_two": {
+    "aliases": [
+      "zero_two",
+      "zero two",
+      "002",
+      "darling in the franxx girl",
+      "pink hair horns girl"
+    ],
+    "tags": "zero_two, darling_in_the_franxx, 1girl, pink_hair, red_horns, green_eyes, white_uniform, detailed_face"
+  },
+  "rem": {
+    "aliases": [
+      "rem",
+      "rem re zero",
+      "blue maid",
+      "oni maid"
+    ],
+    "tags": "rem, re_zero, 1girl, blue_hair, blue_eyes, maid_outfit, oni_horn, detailed_face"
+  },
+  "_comment_custom_characters": "===== YOUR CUSTOM CHARACTERS =====",
+  "_comment_add_here": "Add your own characters below this line",
+  "_comment_template": "===== CHARACTER TEMPLATE =====",
+  "_template_example": {
+    "aliases": [
+      "character_name",
+      "nickname",
+      "alt_name"
+    ],
+    "tags": "character_name, series_name, 1girl/1boy, physical_features, clothing, personality_traits, detailed_face"
+  },
+  "gazelle": {
+    "aliases": [
+      "gazelle",
+      "gazelle zootopia",
+      "Gazelle"
+    ],
+    "tags": "<lora:Furry_Anthro_Lora_Gazelle_Zootopia:1>,masterpiece,best quality,amazing quality,furry,tail,gazelle,zootopia,gazellezootopia,anthro,female,horns,1girl,horns,blonde hair,brown eyes,hair over one eye,big chest,"
+  },
+  "_comment_hightschoolofthedead": "===== HIGHTSCHOOLOFTHEDEAD =====",
+  "busujima saeko(highschool of the dead)": {
+    "aliases": [
+      "busujima saeko",
+      "saeko busujima"
+    ],
+    "tags": "busujima saeko, highschool of the dead, 1girl, blue eyes, purple hair, long hair, very long hair, large breasts"
+  },
+  "miyamoto rei(highschool of the dead)": {
+    "aliases": [
+      "miyamoto_rei",
+      "rei_miyamoto",
+      "miyamoto rei",
+      "rei miyamoto"
+    ],
+    "tags": "miyamoto rei, highschool of the dead, 1girl, red eyes, brown eyes, brown hair, long hair, antenna hair, large breasts,"
+  },
+  "takagi saya(highschool of the dead)": {
+    "aliases": [
+      "takagi saya",
+      "saya takagi",
+      "takagi_saya",
+      "saya_takagi",
+      "saya(dead)"
+    ],
+    "tags": "takagi saya, highschool of the dead, 1girl, yellow eyes, glasses, pink hair, long hair, twintails, large breasts,"
+  },
+  "marikawa shizuka(highschool of the dead)": {
+    "aliases": [
+      "marikawa shizuka",
+      "Shizuka Marikawa",
+      "shizuka marikawa",
+      "marikawa_shizuka",
+      "Shizuka_Marikawa",
+      "shizuka_marikawa"
+    ],
+    "tags": "marikawa shizuka, highschool of the dead, 1girl, brown eyes, yellow eyes, hair between eyes, blonde hair, long hair, huge breasts, large breasts,"
+  },
+  "_comment_fairy_tails": "===== FAIRY TAILS =====",
+  "lucy heartfilia(Fairy tails)": {
+    "aliases": [
+      "lucy heartfilia",
+      "Lucy Heartfilia",
+      "heartfilia lucy",
+      "Heartfilia Lucy",
+      "lucy from fairy tail",
+      "Lucy from Fairy Tail"
+    ],
+    "tags": ",lucy heartfilia, fairy tail, 1girl, brown eyes, blonde hair, long hair, twintails, large breasts, cleavage, navel,"
+  },
+  "erza scarlet(Fairy tail)": {
+    "aliases": [
+      "erza scarlet",
+      "Erza Scarlet",
+      "scarlet erza",
+      "Scarlet Erza",
+      "titania",
+      "titania erza",
+      "Erza Titania",
+      "erza fairy tail",
+      "Erza Fairy Tail",
+      "erza from fairy tail",
+      "Erza from Fairy Tail"
+    ],
+    "tags": ",erza scarlet, fairy tail, 1girl, brown eyes, hair over one eye, red hair, long hair, large breasts, cleavage"
+  },
+  "wendy marvell(Fairy tail)": {
+    "aliases": [
+      "wendy marvell",
+      "Wendy Marvell",
+      "marvell wendy",
+      "Marvell Wendy",
+      "wendy fairy tail",
+      "Wendy Fairy Tail",
+      "wendy from fairy tail",
+      "Wendy from Fairy Tail"
+    ],
+    "tags": "wendy marvell, fairy tail, 1girl, brown eyes, hair between eyes, blue hair, long hair, very long hair, twintails,"
+  },
+  "juvia lockser(fairy tail)": {
+    "aliases": [
+      "juvia lockser",
+      "Juvia Lockser",
+      "lockser juvia",
+      "Lockser Juvia",
+      "juvia fairy tail",
+      "Juvia Fairy Tail",
+      "juvia from fairy tail",
+      "Juvia from Fairy Tail"
+    ],
+    "tags": "juvia lockser, fairy tail, 1girl, blue eyes, hair between eyes, blue hair, long hair, large breasts"
+  },
+  "mirajane strauss(fairy tail)": {
+    "aliases": [
+      "mirajane strauss",
+      "Mirajane Strauss",
+      "strauss mirajane",
+      "Strauss Mirajane",
+      "mirajane fairy tail",
+      "Mirajane Fairy Tail",
+      "mirajane from fairy tail",
+      "Mirajane from Fairy Tail"
+    ],
+    "tags": "mirajane strauss, fairy tail, 1girl, blue eyes, long hair, white hair, large breasts, cleavage, navel, topknot"
+  },
+  "lisanna strauss(fairy tail)": {
+    "aliases": [
+      "lisanna strauss",
+      "Lisanna Strauss",
+      "strauss lisanna",
+      "Strauss Lisanna",
+      "lisanna fairy tail",
+      "Lisanna Fairy Tail",
+      "lisanna from fairy tail",
+      "Lisanna from Fairy Tail"
+    ],
+    "tags": "lisanna strauss, fairy tail, 1girl, blue eyes, short hair, white hair, silver hair, large breasts"
+  },
+  "cana alberona(fairy tail)": {
+    "aliases": [
+      "cana alberona",
+      "Cana Alberona",
+      "alberona cana",
+      "Alberona Cana",
+      "cana fairy tail",
+      "Cana Fairy Tail",
+      "cana from fairy tail",
+      "Cana from Fairy Tail",
+      "cana (fairy tail)"
+    ],
+    "tags": "cana alberona, fairy tail, long hair, brown hair, brown eyes, dark skin, tan, large breasts, curvy, mature female, thick thighs, wide hips, voluptuous, beautiful face,adult woman,"
+  },
+  "levy mcgarden(Fairytail)": {
+    "aliases": [
+      "levy mcgarden",
+      "Levy McGarden",
+      "mcgarden levy",
+      "McGarden Levy",
+      "levy fairy tail",
+      "Levy Fairy Tail",
+      "levy from fairy tail",
+      "Levy from Fairy Tail"
+    ],
+    "tags": "levy mcgarden, fairy tail, 1girl, brown eyes, blue hair, long hair, small breasts, medium breasts, cleavage, ass, collarbone, headband"
+  },
+  "_comment_food_wars": "===== FOOD WARS =====",
+  "nakiri erina(Foods wars)": {
+    "aliases": [
+      "erina nakiri",
+      "Erina Nakiri",
+      "nakiri erina",
+      "Nakiri Erina",
+      "erina food wars",
+      "Erina Food Wars",
+      "erina shokugeki",
+      "Erina Shokugeki",
+      "erina from food wars"
+    ],
+    "tags": "nakiri erina, shokugeki no souma, 1girl, purple eyes, hair between eyes, blonde hair, long hair, large breasts,"
+  },
+  "arato hisako(food wars)": {
+    "aliases": [
+      "hisako arato",
+      "Hisako Arato",
+      "arato hisako",
+      "Arato Hisako",
+      "hisako food wars",
+      "Hisako Food Wars",
+      "hisako shokugeki",
+      "Hisako Shokugeki"
+    ],
+    "tags": "arato hisako, shokugeki no souma, 1girl, red eyes, short hair, purple hair, pink hair, medium breasts"
+  },
+  "nakiri alice(food wars)": {
+    "aliases": [
+      "alice nakiri",
+      "Alice Nakiri",
+      "nakiri alice",
+      "Nakiri Alice",
+      "alice food wars",
+      "Alice Food Wars",
+      "alice shokugeki",
+      "Alice Shokugeki",
+      "alice from food wars",
+      "Alice from Food Wars"
+    ],
+    "tags": "nakiri alice, shokugeki no souma, 1girl, red eyes, hair between eyes, short hair, white hair, silver hair, large breasts"
+  },
+  "kobayashi rindou(food wars)": {
+    "aliases": [
+      "rindo kobayashi",
+      "Rindo Kobayashi",
+      "kobayashi rindo",
+      "Kobayashi Rindo",
+      "rindo food wars",
+      "Rindo Food Wars",
+      "rindo shokugeki",
+      "Rindo Shokugeki"
+    ],
+    "tags": "kobayashi rindou, shokugeki no souma, 1girl, fangs, yellow eyes, hair over one eye, slit pupils, red hair, long hair, large breasts,"
+  },
+  "tadokoro megumi(food wars)": {
+    "aliases": [
+      "megumi tadokoro",
+      "Megumi Tadokoro",
+      "tadokoro megumi",
+      "Tadokoro Megumi",
+      "megumi food wars",
+      "Megumi Food Wars",
+      "megumi shokugeki",
+      "Megumi Shokugeki"
+    ],
+    "tags": "tadokoro megumi, shokugeki no souma, 1girl, yellow eyes, blue hair, long hair, twin braids, hairclip,"
+  },
+  "_comment_hentai": "===== HENTAI =====",
+  "igawa asagi": {
+    "aliases": [
+      "asagi igawa",
+      "Asagi Igawa",
+      "igawa asagi",
+      "Igawa Asagi",
+      "taimanin asagi",
+      "Taimanin Asagi",
+      "asagi taimanin",
+      "Asagi Taimanin",
+      "asagi from taimanin",
+      "Asagi from Taimanin",
+      "asagi the taimanin",
+      "Igawa Asagi Taimanin",
+      "asagi igawa taimanin"
+    ],
+    "tags": "igawa asagi, taimanin \\(series\\), 1girl, green eyes, long hair, blue hair, black hair, large breasts, huge breasts,"
+  },
+  "igawa sakura": {
+    "aliases": [
+      "sakura igawa",
+      "Sakura Igawa",
+      "igawa sakura",
+      "Igawa Sakura",
+      "taimanin sakura",
+      "Taimanin Sakura",
+      "sakura taimanin",
+      "Sakura Taimanin",
+      "sakura from taimanin",
+      "Sakura from Taimanin",
+      "igawa sakura taimanin"
+    ],
+    "tags": "igawa sakura, taimanin \\(series\\), 1girl, blue eyes, short hair, blonde hair, orange hair, large breasts, huge breasts, bare shoulders,"
+  },
+  "Yukikaze Mizuki": {
+    "aliases": [
+      "yukikaze mizuki",
+      "Yukikaze Mizuki",
+      "mizuki yukikaze",
+      "Mizuki Yukikaze",
+      "taimanin yukikaze",
+      "Taimanin Yukikaze",
+      "yukikaze taimanin",
+      "Yukikaze Taimanin",
+      "yukikaze from taimanin",
+      "Yukikaze from Taimanin"
+    ],
+    "tags": "mizuki yukikaze, taimanin \\(series\\), 1girl, dark-skinned female, purple eyes, hair between eyes, pink eyes, brown hair, very long hair, long hair, two side up, twintails, hair ribbon, small breasts,"
+  },
+  "akiyama rinko": {
+    "aliases": [
+      "rinko akiyama",
+      "Rinko Akiyama",
+      "akiyama rinko",
+      "Akiyama Rinko",
+      "taimanin rinko",
+      "Taimanin Rinko",
+      "rinko taimanin",
+      "Rinko Taimanin"
+    ],
+    "tags": "akiyama rinko, taimanin \\(series\\), 1girl, purple eyes, hair between eyes, very long hair, long hair, ponytail, large breasts, huge breasts,"
+  },
+  "oboro (taimanin asagi)": {
+    "aliases": [
+      "Oboro",
+      "oboro taimanin",
+      "Oboro Taimanin",
+      "taimanin oboro",
+      "Taimanin Oboro",
+      "oboro from taimanin",
+      "Oboro from Taimanin"
+    ],
+    "tags": "oboro \\(taimanin asagi\\), taimanin \\(series\\), 1girl, lips, purple hair, large breasts, thighs, sweat, lipstick,"
+  },
+  "_comment_pokemon": "===== POKEMON =====",
+  "Vaporeon": {
+    "aliases": [
+      "Vaporeon",
+      "water evee",
+      "vaporeon"
+    ],
+    "tags": ",<lora:Vaporeon_illust:1>,vaporeon_illust,blue_body,female,anthro,tail,pussy,breasts,anthrofied,areola,loli,small,hourglass figure,small breast,"
+  },
+  "flareon(pokemon)": {
+    "aliases": [
+      "flareon",
+      "Flareon"
+    ],
+    "tags": ",<lora:flareon_illust:1>,flareon_illust,solo,fur,female,anthro,big breasts,"
+  },
+  "leafeon(pokemon)": {
+    "aliases": [
+      "leafeon",
+      "Leafeon"
+    ],
+    "tags": ",<lora:leafeon_illust:1>,leafeon_illust,solo,female,anthro,breast,mature,adult,lazyup,"
+  },
+  "_comment_avatar_the_last_air_bender": "===== AVATAR THE LAST AIR BENDER =====",
+  "azula": {
+    "aliases": [
+      "azula",
+      "Azula",
+      "Azula avatar"
+    ],
+    "tags": "azula, avatar legends, 1girl, lips, brown eyes, yellow eyes, black hair, single hair bun, long hair, large breasts, medium breasts, topknot, lipstick,"
+  },
+  "mai (avatar)": {
+    "aliases": [
+      "mai avatar",
+      "mai",
+      "Mai"
+    ],
+    "tags": "mai_(avatar), avatar legends, 1girl, brown eyes, black hair, long hair, double bun, blunt bangs, large breasts, navel,"
+  },
+  "katara(avatar)": {
+    "aliases": [
+      "katara",
+      "Katara",
+      "katara avatar",
+      "Katara from avatar",
+      "katara from avatar"
+    ],
+    "tags": "katara, avatar legends, 1girl, dark-skinned female, blue eyes, brown hair, long hair, medium breasts"
+  },
+  "toph(Avatar)": {
+    "aliases": [
+      "toph",
+      "toph bei fong",
+      "toph_beifong"
+    ],
+    "tags": "toph bei fong, toph_beifong, avatar_legends,"
+  },
+  "Ty Lee": {
+    "aliases": [
+      "Ty Lee",
+      "ty Lee",
+      "lee ty",
+      "Lee ty",
+      "Lee Ty"
+    ],
+    "tags": "ty lee, avatar legends, 1girl, brown eyes, brown hair, long hair, single braid, braided ponytail, large breasts, medium breasts, thighs, navel"
+  },
+  "korra": {
+    "aliases": [
+      "korra",
+      "Korra",
+      "korra avatar",
+      "Korra avatar"
+    ],
+    "tags": "korra, avatar legends, 1girl, dark-skinned female, blue eyes, brown hair, long hair, ponytail, hair tubes, large breasts, medium breasts, toned, abs,"
+  },
+  "asami sato": {
+    "aliases": [
+      "asami sato",
+      "sato asami",
+      "Asami Sato",
+      "Asami sato",
+      "Sato Asami",
+      "Sato asami"
+    ],
+    "tags": "asami sato, avatar legends, 1girl, red lips, lips, green eyes, eyeshadow, long hair, black hair, large breasts, medium breasts, lipstick,"
+  },
+  "_comment_winx_club(cartoon)": "===== WINX CLUB(CARTOON) ====="
+}
