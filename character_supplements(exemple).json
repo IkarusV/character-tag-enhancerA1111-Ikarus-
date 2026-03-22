@@ -1,0 +1,1667 @@
+{
+  "_comment_eminenceinshadow": "===== EMINENCEINSHADOW =====",
+  "iris midgar(eminence)": {
+    "aliases": [
+      "iris midgar",
+      "Iris midgar",
+      "midgar iris"
+    ],
+    "tags": "<lora:iris-midgar-s1-illustriousxl-lora-nochekaiser:1> iris midgar, red hair, long hair, 1girl, solo, red eyes, braid, breasts"
+  },
+  "no 664": {
+    "aliases": [
+      "no 664",
+      "number 664"
+    ],
+    "tags": "<lora:no664-s1-illustriousxl-lora-nochekaiser:1> no 664, short hair, blue eyes, blue hair, solo, black hair, 1girl, pointy ears"
+  },
+  "oriana rose(eminence)": {
+    "aliases": [
+      "oriana rose",
+      "rose oriona"
+    ],
+    "tags": "<lora:oriana-rose-s1-illustriousxl-lora-nochekaiser:1> oriana rose, blonde hair, long hair, 1girl, bangs, yellow eyes, solo, blunt bangs, very long hair, braid, drill hair"
+  },
+  "Annerose(eminence)": {
+    "aliases": [
+      "Anne rose",
+      "anne rose"
+    ],
+    "tags": "<lora:shadow-annerose-s1-illustriousxl-lora-nochekaiser:1> annerose, short hair, blue hair, 1girl, solo, blue eyes, hairband, purple hair, bangs, breasts"
+  },
+  "beatrix(eminence)": {
+    "aliases": [
+      "beatrix",
+      "Beatrix"
+    ],
+    "tags": "<lora:shadow-beatrix-s1-illustriousxl-lora-nochekaiser:1> beatrix, long hair, 1girl, solo, pointy ears, white hair, breasts, purple eyes, elf, hair ornament, blue eyes, facial mark, choker"
+  },
+  "Nu(eminence)": {
+    "aliases": [
+      "Nu",
+      "nu"
+    ],
+    "tags": "absurdres, highres, masterpiece, best quality, amazing quality, official anime artwork, screencap, anime screencap,<lora:Nu_Illustrious:1> Nu, 1girl, solo, brown eyes, brown hair, long hair,breasts,"
+  },
+  "Omega24(eminence)": {
+    "aliases": [
+      "no 24",
+      "omega",
+      "Omega",
+      "number 24"
+    ],
+    "tags": "<lora:Omega_Illustrious:1> Omega, 1girl, solo, heterochromia, grey eyes, yellow eyes, black hair, medium hair, hair between eyes, dark-skinned female, facial tattoo, pointy ears, elf,"
+  },
+  "Lambda(eminence)": {
+    "aliases": [
+      "Lambda",
+      "lambda"
+    ],
+    "tags": "<lora:shadow-lambda-s1-illustriousxl-lora-nochekaiser:1> lambda, long hair, dark skin, 1girl, white hair, dark-skinned female, solo, pointy ears,crouching,tongue out,looking at viewer,hand on hair,"
+  },
+  "Gamma(eminence)": {
+    "aliases": [
+      "gamma",
+      "Gamma"
+    ],
+    "tags": ",<lora:shadow-gamma-s1-illustriousxl-lora-nochekaiser:1> gamma, long hair, 1girl, solo, black hair, breasts, jewelry, blue eyes, necklace, blue hair, pointy ears,"
+  },
+  "Zeta(eminence)": {
+    "aliases": [
+      "Zeta",
+      "zeta"
+    ],
+    "tags": ",<lora:shadow-zeta-s1-illustriousxl-lora-nochekaiser:1> zeta, solo, animal ears, 1girl, hair between eyes, purple eyes, blonde hair, tail, bangs, breasts, white hair,"
+  },
+  "Eta(eminence)": {
+    "aliases": [
+      "Eta",
+      "eta"
+    ],
+    "tags": "<lora:Eta_Illustrious:1> Eta, 1girl, solo, purple eyes, purple hair, long hair, blunt bangs, sidelocks, pointy ears,blushing,"
+  },
+  "Epsilon(eminence)": {
+    "aliases": [
+      "Epsilon",
+      "epsilon"
+    ],
+    "tags": ",<lora:shadow-epsilon-s1-illustriousxl-lora-nochekaiser:1> epsilon, long hair, 1girl, twintails, solo, pointy ears, purple eyes, breasts, bangs, blue hair, sidelocks"
+  },
+  "Delta(Eminenceinshadow)": {
+    "aliases": [
+      "Delta",
+      "delta"
+    ],
+    "tags": "<lora:shadow-delta-s1-illustriousxl-lora-nochekaiser:1> delta, black hair, 1girl, long hair, purple eyes, solo, animal ears, bangs, facial mark, animal ear fluff, breasts,"
+  },
+  "Aurora(EminenceinShadow)": {
+    "aliases": [
+      "Aurora",
+      "aurora"
+    ],
+    "tags": "<lora:shadow-aurora-s1-illustriousxl-lora-nochekaiser:1> aurora, long hair, 1girl, purple hair, solo, hair over one eye, purple eyes, breasts, black hair, eyes visible through hair, jewelry"
+  },
+  "Number 22(Chi/kai)": {
+    "aliases": [
+      "Number 22",
+      "number 22",
+      "no 22"
+    ],
+    "tags": "<lora:Chi_Illustrious:1> Chi, 1girl, solo, blue eyes, blonde hair, medium hair, single sidelock, low-tied sidelocks, pointy ears, one eye covered, elf,"
+  },
+  "Beta(eminence)": {
+    "aliases": [
+      "Beta",
+      "beta"
+    ],
+    "tags": ",<lora:shadow-beta-s1-illustriousxl-lora-nochekaiser:1> beta, braid, pointy ears, 1girl, solo, short hair, blue eyes, grey hair, elf, breasts, side braid, bangs,"
+  },
+  "Alpha(EminenceinShadow)": {
+    "aliases": [
+      "Alpha",
+      "alpha"
+    ],
+    "tags": "<lora:shadow-alpha-s1-illustriousxl-lora-nochekaiser:1> alpha, blonde hair, long hair, 1girl, solo, pointy ears, blue eyes, elf, breasts, very long hair"
+  },
+  "_comment_jojobizarreadventure": "===== JOJOBIZARREADVENTURE =====",
+  "Dio brando(Jojo)": {
+    "aliases": [
+      "Dio",
+      "dio brando",
+      "brando dio"
+    ],
+    "tags": ",<lora:DioBrando(Female)Frankeinstein:1> DioBrandoFR, 1girl, solo, golden, hair, yellow, eyes, dio, brando,dio brando,"
+  },
+  "_comment_onepiece(anime)": "===== ONEPIECE(ANIME) =====",
+  "Luffyko/luffy(OnePiece)": {
+    "aliases": [
+      "Luffy",
+      "luffy",
+      "Luffyko",
+      "luffyko",
+      "LuffyKo"
+    ],
+    "tags": ",<lora:LuffykoFrankeinsteinStyle:1> LuffykoFR,1girl,solo ,,monkey d. luffy, scars,"
+  },
+  "_comment_style": "===== STYLE =====",
+  "AnimeHDR": {
+    "aliases": [
+      "animehdr"
+    ],
+    "tags": ",masterpiece,best quality,soft,extremely high resolution,aesthetic,newest,\nHDR,anime coloring,high contrast,(flat_color:1.1),no_lineart,"
+  },
+  "WinxStyle": {
+    "aliases": [
+      "winxstyle"
+    ],
+    "tags": "detailed body, detailed face, perfect body, dynamic angle, high-waist, thighhighs, official-art style, solo, Theobrobine, <lora:Waist slider\nPony2_alpha16.0_rank32_full_last:0.8>, <lora:Zfives artstyle:0.6>, w_st"
+  },
+  "GothicStyle": {
+    "aliases": [
+      "ghothicstyle"
+    ],
+    "tags": "<lora:MoriiMee_Gothic_Realistic:0.6>, <lora:USNR_STYLE_ILL_V1_lokr3:0.7>,"
+  },
+  "Lesscartoon(OGStyle)": {
+    "aliases": [
+      "LessCartoon"
+    ],
+    "tags": ", <lora:LessCartoonStyleFR:1> skwglossytoon,"
+  },
+  "_comment_bleach_series_characters": "===== BLEACH SERIES CHARACTERS =====",
+  "Ichigo(Bleach)": {
+    "aliases": [
+      "Ichiko",
+      "Ichigo"
+    ],
+    "tags": ",1girl,kurosaki ichigo, bleach, brown eyes, orange hair, spiked hair, short hair,breast,long hair,"
+  },
+  "_comment_header": "===== CHARACTER TAG ENHANCER DATABASE =====",
+  "_comment_usage": "Add characters with aliases and detailed Danbooru-style tags",
+  "_comment_naruto_characters": "===== NARUTO SERIES CHARACTERS =====",
+  "Gaara(Adult)": {
+    "aliases": [
+      "Gaara",
+      "gaara"
+    ],
+    "tags": ",<lora:Gaara_Female_FRV1.2:1> GaaraFR, 1girl, solo, fem_gaara, adult, red_hair, teal_eyes, kanji_on_forehead,"
+  },
+  "Itachi": {
+    "aliases": [
+      "Itachi",
+      "itachi",
+      "itachi uchiwa"
+    ],
+    "tags": ",<lora:Itachi_Female_FRV1:1> femitachiFR, 1girl, uchiha itachi, black hair, black eyes, long hair, ponytail, anime coloring, anime screenshot,"
+  },
+  "Gaara(Naruto)": {
+    "aliases": [
+      "Gaara",
+      "kazekage"
+    ],
+    "tags": ",<lora:Gaara_Female_FRV1.2:1> GaaraFR, 1girl, solo, fem_gaara, adult, red_hair, teal_eyes, kanji_on_forehead,"
+  },
+  "Orochimaru(Naruto)": {
+    "aliases": [
+      "Orochimaru",
+      "Orochimaru-san"
+    ],
+    "tags": ",<lora:Orochimaru_Female_FRV1:1> femorochiFR, 1girl, solo, pale skin, yellow eyes, slit pupils, hair over one eye, long hair, black hair, eyeliner,"
+  },
+  "Satsuki Uchiha(Adult Female Sasuke)": {
+    "aliases": [
+      "Satsuki Uchiha",
+      "Satsuki",
+      "Sasuke"
+    ],
+    "tags": ";<lora:SatsukoV1illutrious:1> Satsuko,1girl, solo, small breasts,hair between eyes, spiky black hair, black eyes,, 1girl, black_hair, spiked_hair,"
+  },
+  "tsunade": {
+    "aliases": [
+      "tsunade",
+      "tsunade senju",
+      "fifth hokage",
+      "slug princess",
+      "hokage tsunade",
+      "test1"
+    ],
+    "tags": "tsunade, naruto_(series), 1girl, blonde_hair, large_breasts, hokage_robe, medical_ninja, amber_eyes, detailed_face, masterpiece"
+  },
+  "ino_yamanaka": {
+    "aliases": [
+      "ino_yamanaka",
+      "ino yamanaka",
+      "ino",
+      "ino from naruto",
+      "yamanaka ino"
+    ],
+    "tags": "ino_yamanaka, naruto_(series), 1girl, blonde_hair, blue_eyes, purple_outfit, mind_transfer, detailed_face"
+  },
+  "yuuhi_kurenai": {
+    "aliases": [
+      "yuuhi_kurenai",
+      "yuuhi kurenai",
+      "kurenai",
+      "kurenai yuuhi",
+      "kurenai from naruto"
+    ],
+    "tags": "yuuhi kurenai, naruto_(series), 1girl, lips, red eyes, black hair, long hair, large breasts, medium breasts, forehead protector, konohagakure symbol"
+  },
+  "mitarashi_anko": {
+    "aliases": [
+      "mitarashi_anko",
+      "mitarashi anko",
+      "anko",
+      "anko mitarashi",
+      "anko from naruto"
+    ],
+    "tags": "mitarashi anko, naruto_(series), 1girl, brown eyes, short hair, purple hair, black hair, large breasts, medium breasts, forehead protector, headband"
+  },
+  "konan": {
+    "aliases": [
+      "konan",
+      "konan akatsuki",
+      "paper angel",
+      "akatsuki konan"
+    ],
+    "tags": "konan, naruto_(series), 1girl, blue_hair, amber_eyes, paper_jutsu, akatsuki_member, detailed_face"
+  },
+  "naruko_uzumaki": {
+    "aliases": [
+      "naruko_uzumaki",
+      "naruko uzumaki",
+      "naruko",
+      "female naruto"
+    ],
+    "tags": "<lora:Naruko_XL:1> naruko_xl, facial mark, genderswap, genderswap (mtf), 1girl, solo, twintails, whisker markings, breasts,naruko_uzumaki, naruto_(series),<lora:StS_IllustXL_Breast_Size_Slider_v1.0:-1>, <lora:Thighs slider IXL4_alpha16.0_rank32_full_last:-1>,"
+  },
+  "temari": {
+    "aliases": [
+      "temari",
+      "temari naruto",
+      "temari (naruto)"
+    ],
+    "tags": "temari_(naruto), naruto_(series), 1girl, blonde_hair, green_eyes, four_tails, large_breasts"
+  },
+  "tenten": {
+    "aliases": [
+      "tenten",
+      "tenten naruto",
+      "tenten (naruto)"
+    ],
+    "tags": "tenten_(naruto), naruto_(series), 1girl, brown_hair, brown_eyes, short_hair, double_bun, forehead_protector, medium_breasts"
+  },
+  "tayuya": {
+    "aliases": [
+      "tayuya",
+      "tayuya naruto",
+      "tayuya (naruto)"
+    ],
+    "tags": "tayuya_(naruto), naruto_(series), 1girl, red_hair, long_hair, ninja, flute"
+  },
+  "shizune": {
+    "aliases": [
+      "shizune",
+      "shizune naruto",
+      "shizune (naruto)"
+    ],
+    "tags": "shizune_(naruto), naruto_(series), 1girl, black_hair, black_eyes, short_hair"
+  },
+  "karin": {
+    "aliases": [
+      "karin",
+      "karin naruto",
+      "karin (naruto)"
+    ],
+    "tags": "<lora:DX888KarinIL:1> uzumaki karin, 1girl, red hair, red eyes, glasses, black-framed eyewear, navel"
+  },
+  "Sakura": {
+    "aliases": [
+      "haruno sakura",
+      "sakura haruno",
+      "sakura_haruno",
+      "haruno_sakura",
+      "Sakura"
+    ],
+    "tags": "haruno sakura,  naruto_(series), 1girl, green eyes, pink hair, short hair"
+  },
+  "hyuuga hinata": {
+    "aliases": [
+      "hyuuga hinata",
+      "hinata",
+      "hinata hyuga",
+      "hyuuga_hinata",
+      "hinata_hyuga",
+      "Hinata"
+    ],
+    "tags": "<lora:Naruto_Series_Eyes_All_In_One_PONY_XL_by_UOC:1>, animeeyes, animedoujutsu, byakugan,hyuuga hinata, naruto \\(series\\), 1girl, white eyes, black hair, long hair, short hair, blunt bangs, large breasts,"
+  },
+  "hyuuga hanabi": {
+    "aliases": [
+      "Hanabi",
+      "hanabi",
+      "hyuuga hanabi",
+      "hanabi hyuuga",
+      "hanabi hyuuga",
+      "hanabi",
+      "hyuuga_hanabi",
+      "hanabi_hyuuga",
+      "hanabi_hyuuga"
+    ],
+    "tags": "<lora:Naruto_Series_Eyes_All_In_One_PONY_XL_by_UOC:1>, animeeyes, animedoujutsu, byakugan, hyuuga hanabi, naruto \\(series\\), 1girl, white eyes, hair between eyes, long hair, black hair, brown hair, very long hair, large breasts, collarbone"
+  },
+  "samui(Naruto)": {
+    "aliases": [
+      "samui",
+      "samui (naruto)",
+      "samui from naruto",
+      "naruto samui",
+      "Samui"
+    ],
+    "tags": ",<lora:Samui_XL:1> s4mu1_xl, 1girl, solo, blunt bangs, collarbone, breasts, cleavage, medium hair, fishnets, fishnet top, anime coloring,official style,<lora:StS_Age_Slider_Illustrious_v1:1>,Oiled skin, sweat, tall, sexy, alluring,, masterpiece, best quality, very aesthetic,best quality, absurdres, masterpiece,masterpiece,4k,high quality,(best quality:1.1), best quality, amazing quality, very aesthetic, high resolution, ultra-detailed, absurdres, HDR, cinematic lighting,female, detailed attire, dynamic pose,face expression,"
+  },
+  "ayame": {
+    "aliases": [
+      "ayame",
+      "ayame (naruto)",
+      "ichiraku ayame",
+      "ayame ichiraku",
+      "ayame_(naruto)",
+      "ayame from naruto",
+      "ramen girl"
+    ],
+    "tags": "<lora:Ayameアヤメ XL (NARUTO):1>,ayame_(naruto),score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, Ayame, white bandanna, brown hair, long hair, black eyes, (shiny eyes), smile"
+  },
+  "uchiha_sarada": {
+    "aliases": [
+      "uchiha_sarada",
+      "uchiha sarada",
+      "sarada",
+      "sarada uchiha",
+      "sarada from naruto"
+    ],
+    "tags": "uchiha sarada, naruto_(series), 1girl, black eyes, red eyes, glasses, red-framed eyewear, black hair, short hair, small breasts, bare shoulders, sharingan"
+  },
+  "uzumaki_himawari": {
+    "aliases": [
+      "uzumaki_himawari",
+      "uzumaki himawari",
+      "himawari",
+      "himawari uzumaki",
+      "naruto's daugther",
+      "himawari from naruto"
+    ],
+    "tags": "uzumaki himawari, naruto_(series), 1girl, blue eyes, short hair, black hair, ahoge, blunt bangs, whisker markings, facial mark"
+  },
+  "uzumaki_kushina": {
+    "aliases": [
+      "uzumaki_kushina",
+      "uzumaki kushina",
+      "kushina",
+      "kushina uzumaki",
+      "kushina from naruto",
+      "naruto's mother"
+    ],
+    "tags": "uzumaki kushina, naruto_(series), 1girl, blue eyes, red hair, long hair, very long hair, hairclip, large breasts"
+  },
+  "mirai_sarutobi": {
+    "aliases": [
+      "mirai_sarutobi",
+      "mirai sarutobi",
+      "sarutobi mirai",
+      "mirai",
+      "mirai from naruto"
+    ],
+    "tags": "<lora:mirai-sarutobi-anime-illustriousxl-lora-nochekaiser:1>, mirai sarutobi, black hair, red eyes, short hair, mature female, medium breasts"
+  },
+  "sumire_kakei": {
+    "aliases": [
+      "sumire_kakei",
+      "sumire kakei",
+      "kakei sumire",
+      "sumire",
+      "sumire from boruto"
+    ],
+    "tags": "<lora:Sumire_KakeiShigaraki_NarutoBoruto:1>, 1girl, sumire kakei, purple hair, sumire kakei (boruto), long hair, ponytail, purple eyes"
+  },
+  "terumi_mei": {
+    "aliases": [
+      "terumi_mei",
+      "terumi mei",
+      "mei terumi",
+      "mei",
+      "terumi mei from naruto"
+    ],
+    "tags": "terumi mei, naruto_(series), 1girl, lips, green eyes, hair over one eye, brown hair, very long hair, long hair, red hair, large breasts, cleavage, bare shoulders, nail polish"
+  },
+  "_comment_custom_characters": "===== YOUR CUSTOM CHARACTERS =====",
+  "_comment_add_here": "Add your own characters below this line",
+  "_comment_template": "===== CHARACTER TEMPLATE =====",
+  "_template_example": {
+    "aliases": [
+      "character_name",
+      "nickname",
+      "alt_name"
+    ],
+    "tags": "character_name, series_name, 1girl/1boy, physical_features, clothing, personality_traits, detailed_face"
+  },
+  "gazelle": {
+    "aliases": [
+      "gazelle",
+      "gazelle zootopia",
+      "Gazelle"
+    ],
+    "tags": "<lora:Furry_Anthro_Lora_Gazelle_Zootopia:1>,masterpiece,best quality,amazing quality,furry,tail,gazelle,zootopia,gazellezootopia,anthro,female,horns,1girl,horns,blonde hair,brown eyes,hair over one eye,big chest,"
+  },
+  "_comment_hightschoolofthedead": "===== HIGHTSCHOOLOFTHEDEAD =====",
+  "busujima saeko(highschool of the dead)": {
+    "aliases": [
+      "busujima saeko",
+      "saeko busujima"
+    ],
+    "tags": "busujima saeko, highschool of the dead, 1girl, blue eyes, purple hair, long hair, very long hair, large breasts"
+  },
+  "miyamoto rei(highschool of the dead)": {
+    "aliases": [
+      "miyamoto_rei",
+      "rei_miyamoto",
+      "miyamoto rei",
+      "rei miyamoto"
+    ],
+    "tags": "miyamoto rei, highschool of the dead, 1girl, red eyes, brown eyes, brown hair, long hair, antenna hair, large breasts,"
+  },
+  "takagi saya(highschool of the dead)": {
+    "aliases": [
+      "takagi saya",
+      "saya takagi",
+      "takagi_saya",
+      "saya_takagi",
+      "saya(dead)"
+    ],
+    "tags": "takagi saya, highschool of the dead, 1girl, yellow eyes, glasses, pink hair, long hair, twintails, large breasts,"
+  },
+  "marikawa shizuka(highschool of the dead)": {
+    "aliases": [
+      "marikawa shizuka",
+      "Shizuka Marikawa",
+      "shizuka marikawa",
+      "marikawa_shizuka",
+      "Shizuka_Marikawa",
+      "shizuka_marikawa"
+    ],
+    "tags": "marikawa shizuka, highschool of the dead, 1girl, brown eyes, yellow eyes, hair between eyes, blonde hair, long hair, huge breasts, large breasts,"
+  },
+  "_comment_fairy_tails": "===== FAIRY TAILS =====",
+  "lucy heartfilia(Fairy tails)": {
+    "aliases": [
+      "lucy heartfilia",
+      "Lucy Heartfilia",
+      "heartfilia lucy",
+      "Heartfilia Lucy",
+      "lucy from fairy tail",
+      "Lucy from Fairy Tail"
+    ],
+    "tags": "<lora:3-in-1_Lucy_Heartfilia_Erza_Scarlet_Wendy_Marvell_Fairy_Tail:1>,lucy_heartfilia, fairy_tail, 1girl, long hair, blonde hair, brown eyes, large breasts"
+  },
+  "erza scarlet(Fairy tail)": {
+    "aliases": [
+      "erza scarlet",
+      "Erza Scarlet",
+      "scarlet erza",
+      "Scarlet Erza",
+      "titania",
+      "titania erza",
+      "Erza Titania",
+      "erza fairy tail",
+      "Erza Fairy Tail",
+      "erza from fairy tail",
+      "Erza from Fairy Tail"
+    ],
+    "tags": "<lora:3-in-1_Lucy_Heartfilia_Erza_Scarlet_Wendy_Marvell_Fairy_Tail:1>,erza_scarlet, fairy_tail, 1girl, solo, red hair, long hair, brown eyes, large breasts"
+  },
+  "wendy marvell(Fairy tail)": {
+    "aliases": [
+      "wendy marvell",
+      "Wendy Marvell",
+      "marvell wendy",
+      "Marvell Wendy",
+      "wendy fairy tail",
+      "Wendy Fairy Tail",
+      "wendy from fairy tail",
+      "Wendy from Fairy Tail"
+    ],
+    "tags": "<lora:Wendy_Marvell_100_Years_Quest_art_style_-_Illustrious_r1:1> Wendy Marvell (character), 1girl, solo, blue hair, long hair, brown eyes, twintails,"
+  },
+  "juvia lockser(fairy tail)": {
+    "aliases": [
+      "juvia lockser",
+      "Juvia Lockser",
+      "lockser juvia",
+      "Lockser Juvia",
+      "juvia fairy tail",
+      "Juvia Fairy Tail",
+      "juvia from fairy tail",
+      "Juvia from Fairy Tail"
+    ],
+    "tags": "<lora:DX888JuviaIL2:1> basejuvia, blue hair, curly hair, blue eyes, , hat, capelet, brooch,  blue dress, fur trim, boots,"
+  },
+  "mirajane strauss(fairy tail)": {
+    "aliases": [
+      "mirajane strauss",
+      "Mirajane Strauss",
+      "strauss mirajane",
+      "Strauss Mirajane",
+      "mirajane fairy tail",
+      "Mirajane Fairy Tail",
+      "mirajane from fairy tail",
+      "Mirajane from Fairy Tail"
+    ],
+    "tags": "<lora:MirajaneStrauss_FairyTail[Nyx]:1> mirajane_strauss_nyx, long hair, 1girl, white hair, jewelry, blue eyes, necklace, bare shoulders,"
+  },
+  "lisanna strauss(fairy tail)": {
+    "aliases": [
+      "lisanna strauss",
+      "Lisanna Strauss",
+      "strauss lisanna",
+      "Strauss Lisanna",
+      "lisanna fairy tail",
+      "Lisanna Fairy Tail",
+      "lisanna from fairy tail",
+      "Lisanna from Fairy Tail"
+    ],
+    "tags": "<lora:lisanna-strauss-anime-illustriousxl-lora-nochekaiser_r1:1> lisanna strauss, 1girl, short hair, solo, blue eyes, white hair, breasts, bare shoulders, hair between eyes,"
+  },
+  "cana alberona(fairy tail)": {
+    "aliases": [
+      "cana alberona",
+      "Cana Alberona",
+      "alberona cana",
+      "Alberona Cana",
+      "cana fairy tail",
+      "Cana Fairy Tail",
+      "cana from fairy tail",
+      "Cana from Fairy Tail",
+      "cana (fairy tail)"
+    ],
+    "tags": "<lora:Cana_Alberona_Fairy_Tail_-_Illustrious:1> 1girl, solo, brown hair, long hair, large breasts, brown eyes tattoo on midriff, Cana blue and white bra outfit,"
+  },
+  "levy mcgarden(Fairytail)": {
+    "aliases": [
+      "levy mcgarden",
+      "Levy McGarden",
+      "mcgarden levy",
+      "McGarden Levy",
+      "levy fairy tail",
+      "Levy Fairy Tail",
+      "levy from fairy tail",
+      "Levy from Fairy Tail"
+    ],
+    "tags": "levy mcgarden, fairy tail, 1girl, brown eyes, blue hair, long hair, small breasts, medium breasts, cleavage, ass, collarbone, headband"
+  },
+  "_comment_food_wars": "===== FOOD WARS =====",
+  "nakiri erina(Foods wars)": {
+    "aliases": [
+      "erina nakiri",
+      "Erina Nakiri",
+      "nakiri erina",
+      "Nakiri Erina",
+      "erina food wars",
+      "Erina Food Wars",
+      "erina shokugeki",
+      "Erina Shokugeki",
+      "erina from food wars"
+    ],
+    "tags": "nakiri erina, shokugeki no souma, 1girl, purple eyes, hair between eyes, blonde hair, long hair, large breasts,"
+  },
+  "arato hisako(food wars)": {
+    "aliases": [
+      "hisako arato",
+      "Hisako Arato",
+      "arato hisako",
+      "Arato Hisako",
+      "hisako food wars",
+      "Hisako Food Wars",
+      "hisako shokugeki",
+      "Hisako Shokugeki"
+    ],
+    "tags": "arato hisako, shokugeki no souma, 1girl, red eyes, short hair, purple hair, pink hair, medium breasts"
+  },
+  "nakiri alice(food wars)": {
+    "aliases": [
+      "alice nakiri",
+      "Alice Nakiri",
+      "nakiri alice",
+      "Nakiri Alice",
+      "alice food wars",
+      "Alice Food Wars",
+      "alice shokugeki",
+      "Alice Shokugeki",
+      "alice from food wars",
+      "Alice from Food Wars"
+    ],
+    "tags": "nakiri alice, shokugeki no souma, 1girl, red eyes, hair between eyes, short hair, white hair, silver hair, large breasts"
+  },
+  "kobayashi rindou(food wars)": {
+    "aliases": [
+      "rindo kobayashi",
+      "Rindo Kobayashi",
+      "kobayashi rindo",
+      "Kobayashi Rindo",
+      "rindo food wars",
+      "Rindo Food Wars",
+      "rindo shokugeki",
+      "Rindo Shokugeki"
+    ],
+    "tags": "kobayashi rindou, shokugeki no souma, 1girl, fangs, yellow eyes, hair over one eye, slit pupils, red hair, long hair, large breasts,"
+  },
+  "tadokoro megumi(food wars)": {
+    "aliases": [
+      "megumi tadokoro",
+      "Megumi Tadokoro",
+      "tadokoro megumi",
+      "Tadokoro Megumi",
+      "megumi food wars",
+      "Megumi Food Wars",
+      "megumi shokugeki",
+      "Megumi Shokugeki"
+    ],
+    "tags": "tadokoro megumi, shokugeki no souma, 1girl, yellow eyes, blue hair, long hair, twin braids, hairclip,"
+  },
+  "_comment_hentai": "===== HENTAI =====",
+  "igawa asagi": {
+    "aliases": [
+      "asagi igawa",
+      "Asagi Igawa",
+      "igawa asagi",
+      "Igawa Asagi",
+      "taimanin asagi",
+      "Taimanin Asagi",
+      "asagi taimanin",
+      "Asagi Taimanin",
+      "asagi from taimanin",
+      "Asagi from Taimanin",
+      "asagi the taimanin",
+      "Igawa Asagi Taimanin",
+      "asagi igawa taimanin"
+    ],
+    "tags": "igawa asagi, taimanin \\(series\\), 1girl, green eyes, long hair, blue hair, black hair, large breasts, huge breasts,"
+  },
+  "igawa sakura": {
+    "aliases": [
+      "sakura igawa",
+      "Sakura Igawa",
+      "igawa sakura",
+      "Igawa Sakura",
+      "taimanin sakura",
+      "Taimanin Sakura",
+      "sakura taimanin",
+      "Sakura Taimanin",
+      "sakura from taimanin",
+      "Sakura from Taimanin",
+      "igawa sakura taimanin"
+    ],
+    "tags": "igawa sakura, taimanin \\(series\\), 1girl, blue eyes, short hair, blonde hair, orange hair, large breasts, huge breasts, bare shoulders,"
+  },
+  "Yukikaze Mizuki": {
+    "aliases": [
+      "yukikaze mizuki",
+      "Yukikaze Mizuki",
+      "mizuki yukikaze",
+      "Mizuki Yukikaze",
+      "taimanin yukikaze",
+      "Taimanin Yukikaze",
+      "yukikaze taimanin",
+      "Yukikaze Taimanin",
+      "yukikaze from taimanin",
+      "Yukikaze from Taimanin"
+    ],
+    "tags": "mizuki yukikaze, taimanin \\(series\\), 1girl, dark-skinned female, purple eyes, hair between eyes, pink eyes, brown hair, very long hair, long hair, two side up, twintails, hair ribbon, small breasts,"
+  },
+  "akiyama rinko": {
+    "aliases": [
+      "rinko akiyama",
+      "Rinko Akiyama",
+      "akiyama rinko",
+      "Akiyama Rinko",
+      "taimanin rinko",
+      "Taimanin Rinko",
+      "rinko taimanin",
+      "Rinko Taimanin"
+    ],
+    "tags": "akiyama rinko, taimanin \\(series\\), 1girl, purple eyes, hair between eyes, very long hair, long hair, ponytail, large breasts, huge breasts,"
+  },
+  "oboro (taimanin asagi)": {
+    "aliases": [
+      "Oboro",
+      "oboro taimanin",
+      "Oboro Taimanin",
+      "taimanin oboro",
+      "Taimanin Oboro",
+      "oboro from taimanin",
+      "Oboro from Taimanin"
+    ],
+    "tags": "oboro \\(taimanin asagi\\), taimanin \\(series\\), 1girl, lips, purple hair, large breasts, thighs, sweat, lipstick,"
+  },
+  "_comment_pokemon": "===== POKEMON =====",
+  "Espeon(pokemon)": {
+    "aliases": [
+      "Espeon",
+      "espeon"
+    ],
+    "tags": "Espeon,teen,anthro,sleek,1girl,medium breast,round breast,"
+  },
+  "Vaporeon": {
+    "aliases": [
+      "Vaporeon",
+      "water evee",
+      "vaporeon"
+    ],
+    "tags": ",<lora:Vaporeon_illust:1>,vaporeon_illust,blue_body,female,anthro,tail,pussy,breasts,anthrofied,areola,loli,small,hourglass figure,small breast,"
+  },
+  "flareon(pokemon)": {
+    "aliases": [
+      "flareon(pokemon)"
+    ],
+    "tags": ",<lora:flareon_illust:1>,flareon_illust,solo,fur,female,anthro,big breasts,"
+  },
+  "leafeon(pokemon)": {
+    "aliases": [
+      "leafeon",
+      "Leafeon"
+    ],
+    "tags": ",leafeon,solo,female,anthro,big breast,mature,adult,"
+  },
+  "_comment_avatar_the_last_air_bender": "===== AVATAR THE LAST AIR BENDER =====",
+  "Zuko(Avatar)": {
+    "aliases": [
+      "Zuko",
+      "zuko"
+    ],
+    "tags": "masterpiece,best quality,soft,extremely high resolution,aesthetic,newest,\nHDR,anime coloring,high contrast,(flat_color:1.1),no_lineart,<lora:Prince_Zuko_Illustrious:1>,1boy,zuko,yellow eyes,scar,black hair,topknot,"
+  },
+  "azula": {
+    "aliases": [
+      "azula",
+      "Azula",
+      "Azula avatar"
+    ],
+    "tags": "<lora:azula2:1> azula, black hair, 1girl, solo, brown eyes, makeup, lipstick,"
+  },
+  "mai (avatar)": {
+    "aliases": [
+      "mai avatar",
+      "mai",
+      "Mai"
+    ],
+    "tags": "masterpiece,best quality,soft,extremely high resolution,aesthetic,newest,\nHDR,anime coloring,high contrast,(flat_color:1.1),no_lineart,<lora:Mai_Avatar_The_Last_Airbender:1>,mai,1girl,fingerless gloves,1girl,solo,brown eyes,yellow eyes,black hair,hair bun,long hair,double bun,blunt bangs,bangs,twintails,breasts,wide sleeves,gloves,black gloves,fingerless gloves,perfect breasts,perfect hips,"
+  },
+  "katara(avatar)": {
+    "aliases": [
+      "katara",
+      "Katara",
+      "katara avatar",
+      "Katara from avatar",
+      "katara from avatar"
+    ],
+    "tags": "masterpiece,best quality,soft,extremely high resolution,aesthetic,newest,\nHDR,anime coloring,high contrast,(flat_color:1.1),no_lineart,<lora:Katara V5 IL:1>,katarasdxl,dark-skinned girl,braid,long hair,topknot,perfect breast,perfect hips,outfit1,blue tunic,forearm tuft,light blue undershirt,side slit,blue pants,"
+  },
+  "toph(Avatar)": {
+    "aliases": [
+      "toph",
+      "toph bei fong",
+      "toph_beifong"
+    ],
+    "tags": "masterpiece,best quality,soft,extremely high resolution,aesthetic,newest,\nHDR,anime coloring,high contrast,(flat_color:1.1),no_lineart,<lora:Toph IL:1>,Toph,1girl,black hair,solo,hairband,short hair,blind,perfect breast,small breasts,perfect hips,"
+  },
+  "Ty Lee(Avatar)": {
+    "aliases": [
+      "Ty Lee",
+      "ty Lee",
+      "lee ty",
+      "Lee ty",
+      "Lee Ty"
+    ],
+    "tags": "<lora:Ty Lee V3 :1> tylee_sdxl, braid, brown eyes,, makeup,"
+  },
+  "korra": {
+    "aliases": [
+      "korra",
+      "Korra",
+      "korra avatar",
+      "Korra avatar"
+    ],
+    "tags": "korra, avatar legends, 1girl, dark-skinned female, blue eyes, brown hair, long hair, ponytail, hair tubes, large breasts, medium breasts, toned, abs,"
+  },
+  "asami sato": {
+    "aliases": [
+      "asami sato",
+      "sato asami",
+      "Asami Sato",
+      "Asami sato",
+      "Sato Asami",
+      "Sato asami"
+    ],
+    "tags": "asami sato, avatar legends, 1girl, red lips, lips, green eyes, eyeshadow, long hair, black hair, large breasts, medium breasts, lipstick,"
+  },
+  "_comment_winx_club(cartoon)": "===== WINX CLUB(CARTOON) =====",
+  "Tecna(Winx)": {
+    "aliases": [
+      "Tecna",
+      "Techna",
+      "tecna",
+      "techna"
+    ],
+    "tags": ",<lora:winxclub-techna-s1:1> xtechnax, retro artstyle, 1girl, short hair, fushina hair, teal eyes, lipstick, crop top, collar, bare shoulders"
+  },
+  "Faragonda(Winx Club)": {
+    "aliases": [
+      "Headmistress Faragonda",
+      "headmistress faragonda",
+      "headmistress Faragonda",
+      "Headmistress faragonda",
+      "faragonda",
+      "Faragonda"
+    ],
+    "tags": "<lora:DirectorIL:1>,d_r,1girl,old,black eyes,grey big hair,short hair,round earrings,glasses lowered nose,pink lips,"
+  },
+  "Musa(Winx Club)": {
+    "aliases": [
+      "musa",
+      "musa winx",
+      "winx musa",
+      "musa from winx club"
+    ],
+    "tags": ",<lora:musa-winx:1>,<lora:MusailluLora:0.9>,musa,black hair,lipstick,midriff,blue eyes,navel,makeup,bare shoulders,twintails,blunt bangs,xmusax,blue hair,lipstick,blue eyes,navel,makeup,1girl,masterpiece,best quality,very aesthetic,absurdres,detailed body,detailed face,perfect body,dynamic angle,musa,black hair,high-waist,thighhighs,official-art style,twintails,blunt bangs,solo,short hair,short twintails,blunt bangs,Theobrobine,<lora:Waist slider Pony2_alpha16.0_rank32_full_last:0.8>,"
+  },
+  "Layla/Aisha(WinxClub)": {
+    "aliases": [
+      "aisha",
+      "aisha winx",
+      "winx aisha",
+      "aisha from winx club",
+      "layla",
+      "layla winx",
+      "winx layla",
+      "layla from winx club",
+      "layla",
+      "Layla"
+    ],
+    "tags": "<lora:Aisha winx clubilluLora:1>, Aisha, dark-skinned female, very long hair, brown hair, two-tone hair, hair tubes, parted bangs, makeup, pink lipstick, green eyes, silver Choker, masterpiece, best quality, very aesthetic, absurdres, detailed body, detailed face, perfect body, dynamic angle, high-waist, thighhighs, official-art style,"
+  },
+  "Flora(Winx)": {
+    "aliases": [
+      "Flora",
+      "Flora winx",
+      "Flora winx",
+      "Flora of Lynphea"
+    ],
+    "tags": "<lora:FloraFr_v1:1>,1girl,solo,winxflora,huge breasts,wide hips,thin waist,long hair,brown hair,blue eyes,Flora,huge breasts,wide hips,thin waist,breasts,moon,wet,long hair,underboob,brown hair,night,navel,earrings,hoop earrings,croptop underboobs,huge breasts,"
+  },
+  "Stella(Winx)": {
+    "aliases": [
+      "Stella",
+      "stella",
+      "Stella from Solaria",
+      "stella from solaria"
+    ],
+    "tags": ",<lora:winxclub-stella-s1:1> xstellax, retro artstyle, 1girl, solo, long hair, perfect hips, perfect breast, lips, blonde hair, hairband, sidelocks, lipstick, yellow eyes, bare shoulders,"
+  },
+  "Bloom(Winx club)": {
+    "aliases": [
+      "Bloom",
+      "Dragon fire Fairy",
+      "Bloom winx",
+      "Bloom winx club",
+      "bloom from winx club",
+      "Winx bloom",
+      "bloom",
+      "bloom winx club"
+    ],
+    "tags": "(masterpiece, best quality:1.2), amazing quality, very aesthetic, 32k, absurdres, newest, scenery,  \n1girl, bl_oom, 1girl, ginger hair, blue eyes, visual kei, lilac eyes, makeup, eyeshadow, black choker, standing, (off shoulders) ,half-closed eyes, , depth of field <lora:winxBloomIL:0.9>,"
+  },
+  "_comment_sonicx": "===== SONICX =====",
+  "Amy Rose": {
+    "aliases": [
+      "Amy",
+      "Amy rose",
+      "amy",
+      "amy rose",
+      "Amy Rose",
+      "Amy from sonic",
+      "amy from sonic"
+    ],
+    "tags": "<lora:Expressive_H:0.65>,expressiveh,amy rose,sonic \\(series\\),1girl,furry female,animal ears,tail,hedgehog ears,green eyes,eyelashes,pink hair,short hair,red hairband,medium breasts,white gloves,red dress,sleeveless dress,bare shoulders,animal nose,pink fur,body fur,"
+  },
+  "Rouge the bat(SonicX)": {
+    "aliases": [
+      "Rouge the bat",
+      "Rouge",
+      "rouge",
+      "rouge the bat",
+      "rouge from sonic",
+      "rouge sonic"
+    ],
+    "tags": "<lora:Expressive_H:0.65>,expressiveh,rouge the bat,sonic \\(series\\),1girl,furry female,bat ears,tail,green eyes,blue eyeshadow,white hair,short hair,large breasts,cleavage,white gloves,elbow gloves,bare shoulders,bat wings,bat wings,bat girl,animal nose,white fur,lipstick,"
+  },
+  "cream the rabbit(Sonicx)": {
+    "aliases": [
+      "cream the rabbit",
+      "Cream the rabbit",
+      "Cream sonic",
+      "cream sonic",
+      "cream from sonic"
+    ],
+    "tags": "<lora:Expressive_H:0.65>,expressiveh,cream the rabbit,sonic \\(series\\),1girl,furry female,rabbit ears,rabbit tail,brown eyes,eyelashes,white gloves,sleeveless dress,shoes,collared dress,rabbit girl,animal nose,orange fur,body fur,yellow fur,child,white fur,"
+  },
+  "Jibril(NoGameNoLife)": {
+    "aliases": [
+      "Jibril",
+      "jibril"
+    ],
+    "tags": "jibril \\(no game no life\\),no game no life,1girl,angel,angel wings,angel wings,wing ears,bird ears,yellow eyes,orange eyes,symbol-shaped pupils,pink hair,very long hair,gradient hair,long hair,large breasts,navel,tattoo,gloves,spiked halo,feathered wings,low wings,"
+  },
+  "Frieza": {
+    "aliases": [
+      "Frieza",
+      "frieza",
+      "freezer(dbz)",
+      "Freezer(Dbz)"
+    ],
+    "tags": "<lora:Frieza(Female):1>,XFrieza,curvy body,large breasts,wide hips,white bio armor,frieza,face mark,Frieza, 1girl, dragon ball, tail, red eyes, Detailed, perfect breast, perfect hips, eyelashes,colored skin,"
+  },
+  "_comment_dragon_ball": "===== DRAGON BALL =====",
+  "Lord beerus": {
+    "aliases": [
+      "Beerus",
+      "Lord beerus",
+      "beerus",
+      "lord beerus"
+    ],
+    "tags": "beerus,dragon ball,furry female,purple skin,tail,cat ears,ear piercing,earrings,armlet,small breasts,lean body,abs,narrow waist,fit,long eyelashes,perky breast,"
+  },
+  "_comment_Martial_Peak": "===== Martial Peak =====",
+  "Shan Qing Luo": {
+    "aliases": [
+      "Shan Qing Luo",
+      "shan qing luo",
+      "Shan qing luo"
+    ],
+    "tags": ",<lora:Shan_Qing_Luo__Martial_Peak__Illustrious:1>,1 girl,solo,pink eyes,white hair,pink hair,long hair,bangs,single braid,eyes visible through hair,hair over one eye,hair between eyes,chinese dress,white dress,sideboob,bare shoulders,white thighhighs,garter straps,side slit,cleavage,bracelete,detached sleeves,"
+  },
+  "Su Yan": {
+    "aliases": [
+      "Su Yan",
+      "su yan",
+      "Su yan"
+    ],
+    "tags": ",<lora:Martial_Peak__Su_Yan:1>,1 girl,solo,black hair,long hair,blue eyes,ahoge,twin hair buns,half updo,hair ornament,hair ribbon,side bangs,ribbon trim,fantasy dress,white cape,blue and white dress,snowflake motif,black waist pattern,long sleeves,layered dress,fitted bodice,cleavage,high collar dress,puffy long sleeves,shoulder cape,brooch fastening at collar,geometric hem cape,chinese dress,black dress,side slit dress,high slit,blue inner lining,white collar,white elbow gloves,fingerless gloves,long cape,"
+  },
+  "Xia Ning Chang": {
+    "aliases": [
+      "Xia Ning Chang",
+      "Xia ning chang",
+      "xia ning chang"
+    ],
+    "tags": "<lora:Xia_Ning_Chang__Martial_Peak__Illustrious:1>,1 girl,solo,black hair,brown hair,very long hair,ponytail,sidelocks,brown eyes,bangs,parted bangs,purple dress,purple skirt,hair ornament,forehead mark,gloves,elbow gloves,black gloves,black thighhighs,bare shoulders,detached sleeves,long sleeves,sleeveless,"
+  },
+  "Xue Yue": {
+    "aliases": [
+      "Xue Yue",
+      "xue yue",
+      "Xue yue"
+    ],
+    "tags": ",<lora:Martial_Peak__Xue_Yue:1>,1 girl,solo,long hair,black hair,side braid,hair ornament,red eyes,forehead jewel,hairpin,forehead jewel,chinese dress,red off shoulder dress,long sleeves,black and gold obi,wide sleeves,open side slit,layered skirt,bare shoulders,white boots,jade bangle,"
+  },
+  "Ji Yao": {
+    "aliases": [
+      "Ji Yao",
+      "Ji yao",
+      "ji yao"
+    ],
+    "tags": ",<lora:Ji_Yao_MartialPeak_IL:1>,jiyao,sleeveless dress,chinese clothes,high-waist skirt,blue skirt,long skirt,two-tone skirt,white skirt,feather boa,blue feather boa,bare shoulders,jewelry,streaked hair,bridalt gauntlets,gradient gloves,white gloves,side slit,1girl,long hair,white hair,breasts,dress,solo,"
+  },
+  "Yu Ru Meng": {
+    "aliases": [
+      "Yu Ru Meng",
+      "yu ru meng",
+      "Yu ru meng",
+      "Yu Ru meng"
+    ],
+    "tags": "<lora:YurumengV1:1>,yu ru meng,yu ru meng,1girl,solo,pointy ears,pink hair,breasts,long hair,pink eyes,large breasts,"
+  },
+  "Qu Hua Chang": {
+    "aliases": [
+      "Qu Hua Chang",
+      "Qu Hua chang",
+      "Qu hua chang",
+      "qu hua chang"
+    ],
+    "tags": ",<lora:Ji_Yao:0.8>,jiyao,woman,1girl,shoulder lenght hair,breasts,side slit,blonde hair,blue eyes,"
+  },
+  "Zhu Qing": {
+    "aliases": [
+      "Zhu Qing",
+      "Zhu qing",
+      "zhu qing"
+    ],
+    "tags": ",<lora:Martial_Peak__Xue_Yue:0.8>,1 girl,solo,short hair,black hair with red strand,side braid,hair ornament,red eyes,open side slit,layered skirt,bare shoulders,huge breast,dragon horns,dragon scales,"
+  },
+  "Yang Xue": {
+    "aliases": [
+      "Yang Xue",
+      "yang xue",
+      "Yang xue"
+    ],
+    "tags": ",<lora:Yang_Xue_Martial_peakV2:1>,Yang xue,yang xue,1girl,solo,long hair,very long hair,brown hair,dark brown hair,purple highlights,blue eyes,light blue eyes,large breasts,hair ornament,flower hair ornament,white flower,"
+  },
+  "_comment_ogcharacter": "===== OGCHARACTER =====",
+  "Valerica(Yakuza/mafiagirl)": {
+    "aliases": [
+      "Valerica Volkov",
+      "valerica volkov"
+    ],
+    "tags": "<lora:YakuzaGirlFRV1:1> mychar, 1girl,white hair, long hair, straight hair, blunt bangs, purple eyes, tattoo, lipstick,"
+  },
+  "Brenda(truckLady)": {
+    "aliases": [
+      "Brenda Johnson",
+      "brenda johnson"
+    ],
+    "tags": "jessica rabbit,1girl,red lips,lips,green eyes,hair over one eye,eyeshadow,long hair,golden hair,blonde hair,large breasts,lipstick,curvy,"
+  },
+  "BambyDawnsFR(MomLucy)": {
+    "aliases": [
+      "Bamby Dawns",
+      "bamby dawns"
+    ],
+    "tags": ",<lora:20260209-1770612731893:1> BambyFR, 1girl, blue eyes, black hair, long hair, wavy hair, eyeliner, tattoo,"
+  },
+  "Carter(og)": {
+    "aliases": [
+      "Carter",
+      "carter"
+    ],
+    "tags": ",male pov,"
+  },
+  "Nalani(OGchar)": {
+    "aliases": [
+      "Nalani",
+      "nalani",
+      "OGNalani",
+      "NalaniOG"
+    ],
+    "tags": ",<lora:NalaniFRV1:1> NalaniFR,1girl,solo, black hair,bangs,long hair, braided hair,large saggy breast,"
+  },
+  "Xena": {
+    "aliases": [
+      "Xena",
+      "Xenomorph",
+      "xenomorph"
+    ],
+    "tags": "<lora:XenomorphFemV2:1> Female Xenomorph,Alien,mechanical skin,translucide skin,, 1girl, solo, tail, breasts, teeth, monster girl, alien, nipples, sharp teeth,"
+  },
+  "Lilith": {
+    "aliases": [
+      "Lilith",
+      "lilith"
+    ],
+    "tags": "<lora:Expressive_H:1> expressiveh ,<lora:WaduStyle:0.8> wadustyle,1girl, solo, 18 years old, blonde hair, golden blonde hair, wavy hair, long hair, hair past shoulders, blue eyes, small nose, fair skin, peachy skin, big breasts, deep cleavage, narrow waist, wide hips, tight clothing, midriff,"
+  },
+  "Wolfenia(farmdventure)": {
+    "aliases": [
+      "Wolfenia",
+      "wolfenia"
+    ],
+    "tags": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, source_furry BREAK masterpiece, best quality, amazing quality, very aesthetic, high resolution, ultra-detailed, absurdres, newest, scenery, 1girl, furry, anthro, dark ambient, ////, detailed face eyes and fur, {gray wolf}, sexy, black hair, long wild tangled hair, very lean, muscular predator body, photorealistic, a photorealistic sexy anthro female version of a gray wolf from looney tune with a very lean muscular body with long wild black hair, sensual, teen, from looney tune, teenage body, dangerous fierce face, shadow, feral, furry female, small breasts, gray fur darker on spine, pointed ears, long bushy tail, yellow eyes"
+  },
+  "Hyenia(farmdventure)": {
+    "aliases": [
+      "Hyenia",
+      "hyenia"
+    ],
+    "tags": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, source_furry BREAK masterpiece, best quality, amazing quality, very aesthetic, high resolution, ultra-detailed, absurdres, newest, scenery, 1girl, furry, anthro, dark ambient, ////, detailed face eyes and fur, {spotted hyena}, sexy, dark brown hair, messy matted hair, very muscular, powerful compact body, photorealistic, a photorealistic sexy anthro female version of a spotted hyena from looney tune with a very muscular compact body with messy dark brown hair, sensual, teen, from looney tune, teenage body, fierce aggressive face, shadow, feral, furry female, small breasts, sandy brown fur with dark spots, sloping back, rounded ears, rough mane"
+  },
+  "Sheepenia(farmdventure)": {
+    "aliases": [
+      "Sheepenia",
+      "sheepenia"
+    ],
+    "tags": "((female ,sheep,)) with ((black and white body)),golden hair,snout,black choker,medium breasts,solo,cute,teen,shoulder lenght hair,blue eyes,wool,\nBREAK masterpiece,best quality,high quality,detailed background,depth of field, photorealistic,"
+  },
+  "Horsenia(farmdventure)": {
+    "aliases": [
+      "Horsenia",
+      "horsenia"
+    ],
+    "tags": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, source_furry BREAK masterpiece, best quality, amazing quality, very aesthetic, high resolution, ultra-detailed, absurdres, newest, scenery, 1girl, furry, anthro, dark ambient, ////, detailed face eyes and fur, {pinto horse mare}, sexy, dark brown hair, long flowing hair, very muscular, powerful athletic body, photorealistic, a photorealistic sexy anthro female version of a pinto horse from looney tune with a very muscular athletic body with long flowing dark brown hair, sensual, teen, from looney tune, teenage body, determined face, shadow, feral, furry female, four breasts in two rows, brown fur with white spots, long tail, powerful haunches"
+  },
+  "Bunnyla(fardmventure)": {
+    "aliases": [
+      "Bunnyla",
+      "bunnyla"
+    ],
+    "tags": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, source_furry BREAK masterpiece, best quality, amazing quality, very aesthetic, high resolution, ultra-detailed, absurdres, newest, scenery, 1girl, furry, anthro, dark ambient, ////, detailed face eyes and fur, {white rabbit}, sexy, white hair, long silky hair, very petite, tiny lean body, photorealistic, a photorealistic sexy anthro female version of a white rabbit from looney tune with a very petite tiny body with long silky white hair at night, sensual, teen, from looney tune, teenage body, cute innocent face, shadow, feral, furry female, small budding breasts, white plush fur, long ears, cotton tail"
+  },
+  "Chickenia(farmdventure)": {
+    "aliases": [
+      "Chickenia",
+      "chickenia"
+    ],
+    "tags": "score_9,score_8_up,score_7_up,score_6_up,score_5_up,score_4_up,source_furry BREAK masterpiece,best quality,amazing quality,very aesthetic,high resolution,ultra-detailed,absurdres,newest,scenery,1girl,furry,anthro,dark ambient,////,detailed face eyes and fur,{chicken hen},,sexy,pale yellow white hair,messy spiky hair,very lean,athletic small body,photorealistic,a photorealistic sexy anthro female version of a chicken from looney tune with a very lean athletic body with messy spiky pale yellow hair,sensual,teen,from looney tune,teenage body,energetic face,shadow,feral,furry female,small developing breasts,yellow down feathers,white feathers emerging,orange beak,loli,"
+  },
+  "Cowenia(farmdventure)": {
+    "aliases": [
+      "Cowenia",
+      "cowenia"
+    ],
+    "tags": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, source_furry BREAK masterpiece, best quality, amazing quality, very aesthetic, high resolution, ultra-detailed, absurdres, newest, scenery, 1girl, furry, anthro, dark ambient, ////, detailed face eyes and fur, {holstein cow}, night, looking at viewer, sexy, black hair, long tangled hair, very heavy, soft fat body, chubby, photorealistic, a photorealistic sexy anthro female version of a holstein cow from looney tune with a very heavy soft body with long tangled black hair, sensual, teen, from looney tune, teenage body, sad gentle face, shadow, feral, furry female, massive breasts, enormous udders, black and white patches,"
+  },
+  "Goldenia(Farmdventure)": {
+    "aliases": [
+      "Goldenia",
+      "goldenia"
+    ],
+    "tags": "score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, source_furry BREAK masterpiece, best quality, amazing quality, very aesthetic, high resolution, ultra-detailed, absurdres, newest, scenery, 1girl, furry, anthro, dark ambient, ////, detailed face eyes and fur, {golden retriever dog}, sexy, golden blonde hair, long wavy hair, soft body, curvy, photorealistic, a photorealistic sexy anthro female version of a golden retriever dog from looney tune with a soft curvy body with long wavy golden blonde hair, sensual, teen, from looney tune, teenage body, pretty face, shadow, feral, furry female, all fours, modest breasts, gentle expression, fluffy fur"
+  },
+  "Blackenia(Farmdventure)": {
+    "aliases": [
+      "Blackenia",
+      "blackenia"
+    ],
+    "tags": "((female ,dobermann,)) with ((brown and black body)),brown hair,snout,black choker,medium breasts,cute,teen,shoulder lenght hair BREAK masterpiece,best quality,high quality,detailed background,depth of field,"
+  },
+  "(DesactiverMyara)": {
+    "aliases": [
+      "(DesactiverMyara)"
+    ],
+    "tags": "<lora:OGMyaraStormclaw:1>,OGMyara(Furry),snow leopard,1girl,furry,anthro,solo,detailed face eyes and fur,golden hair,long hair,very fit,slim body,,pretty face,shadow,blue eyes,fangs, petite, small perky breasts, thick tail, golden eyes,claws , 1girl, breasts, solo, animal ears, blue eyes,"
+  },
+  "Nova(Android)": {
+    "aliases": [
+      "Nova",
+      "nova"
+    ],
+    "tags": "<lora:OgAndroidNovaFr:1>,OGandroidNova,android,1girl,solo,, 1girl, breasts, solo, purple hair, long hair, yellow eyes,"
+  },
+  "BlackNaomi": {
+    "aliases": [
+      "Naomi"
+    ],
+    "tags": ",<lora:OGNaomiV1:1>,1girl,OGNaomi,dark-skinned female,breasts,solo,dark skin,ass,brown eyes,braid,long hair,lips,<lora:Expressive_H:1>,expressiveh,((beautiful tall skinny African ebony 18 year old girl, dark skinned female, black woman, very dark skin)),((dutch braids, braided style hair, twin braids, tight braids)),sexy,cute face,kawai girl,brown eyes,large perfect round breasts,huge boobs,blue bombshell bra,blue thong,perfect body,petite,fit body,long legs,thin waists,godrays,luscious lips,beautiful eyes,"
+  },
+  "Ruby": {
+    "aliases": [
+      "Ruby"
+    ],
+    "tags": ",<lora:OG_Ruby-000013:0.8>,ogruby,merida \\(brave\\),1girl,solo,shiny skin,huge boobs,adult body,wide hips,slim waist,neon pink thong,juicy booty,ginger hair,eyeliner,breasts,long hair,large breasts,pretty eyes,<lora:Expressive_H:0.8>,expressiveh,"
+  },
+  "_comment_sword_art_online": "===== SWORD ART ONLINE =====",
+  "kirigaya suguha(SAO)": {
+    "aliases": [
+      "kirigaya",
+      "kirigaya suguha",
+      "kirigaya Suguha",
+      "Kirigaya"
+    ],
+    "tags": "masterpiece,best quality,very aesthetic,best quality,absurdres,masterpiece,masterpiece,4k,high quality,(best quality:1.1),best quality,amazing quality,very aesthetic,high resolution,ultra-detailed,absurdres,HDR,cinematic lighting,female,detailed attire,dynamic pose,face expression,Sword art online,SAO,sword art online,kirigaya suguha,sword art online,1girl,blue eyes,green eyes,black hair,short hair,hairclip,large breasts,"
+  },
+  "Kirito(SAO)": {
+    "aliases": [
+      "Kirito",
+      "kirito"
+    ],
+    "tags": "masterpiece,best quality,very aesthetic,best quality,absurdres,masterpiece,masterpiece,4k,high quality,(best quality:1.1),best quality,amazing quality,very aesthetic,high resolution,ultra-detailed,absurdres,HDR,cinematic lighting,female,detailed attire,dynamic pose,face expression,Sword art online,SAO,sword art online,kirito \\(sao-ggo\\), sword art online, 1girl, black eyes, hair between eyes, purple eyes, black hair, long hair, very long hair, fingerless gloves, breastplate,"
+  },
+  "Yui(SAO)": {
+    "aliases": [
+      "Yui",
+      "yui"
+    ],
+    "tags": "masterpiece,best quality,very aesthetic,best quality,absurdres,masterpiece,masterpiece,4k,high quality,(best quality:1.1),best quality,amazing quality,very aesthetic,high resolution,ultra-detailed,absurdres,HDR,cinematic lighting,female,detailed attire,dynamic pose,face expression,Sword art online,SAO,sword art online,yui \\(sao\\),1girl,black eyes,brown eyes,black hair,very long hair,long hair,blunt bangs,fairy (sao),child,"
+  },
+  "Lisbeth(SAO)": {
+    "aliases": [
+      "lisbeth",
+      "Lisbeth"
+    ],
+    "tags": "masterpiece,best quality,very aesthetic,best quality,absurdres,masterpiece,masterpiece,4k,high quality,(best quality:1.1),best quality,amazing quality,very aesthetic,high resolution,ultra-detailed,absurdres,HDR,cinematic lighting,female,detailed attire,dynamic pose,face expression,Sword art online,SAO,sword art online,lisbeth \\(sao\\),"
+  },
+  "Silica(SAO)": {
+    "aliases": [
+      "Silica",
+      "silica"
+    ],
+    "tags": "masterpiece,best quality,very aesthetic,best quality,absurdres,masterpiece,masterpiece,4k,high quality,(best quality:1.1),best quality,amazing quality,very aesthetic,high resolution,ultra-detailed,absurdres,HDR,cinematic lighting,female,detailed attire,dynamic pose,face expression,Sword art online,SAO,sword art online,silica,"
+  },
+  "Asuna(SAO)": {
+    "aliases": [
+      "Asuna",
+      "asuna"
+    ],
+    "tags": "masterpiece, best quality, very aesthetic,best quality, absurdres, masterpiece,masterpiece,4k,high quality,(best quality:1.1), best quality, amazing quality, very aesthetic, high resolution, ultra-detailed, absurdres, HDR, cinematic lighting,female, detailed attire, dynamic pose,face expression,Sword art online,SAO, sword art online, asuna \\(sao\\),"
+  },
+  "_comment_goblin_slayer": "===== GOBLIN SLAYER =====",
+  "Rhea Fighter(Goblin Slayer)": {
+    "aliases": [
+      "rhea fighter",
+      "Rhea fighter",
+      "Rhea Fighter"
+    ],
+    "tags": "<lora:rhea-fighter-s2-illustriousxl-lora-nochekaiser:1>,rhea fighter,green eyes,hair ribbon,ponytail,red hair,pointy ears,elf,white bow,white ribbon,ribbon,mature female,small breasts,anime screencap,gloves,bow,pantyhose,shorts,belt,armor,black pantyhose,fur trim,short shorts,brown gloves,toeless legwear,legwear under shorts,brown shorts,"
+  },
+  "Receptionist(Goblinslayer)": {
+    "aliases": [
+      "Receptionist",
+      "receptionist"
+    ],
+    "tags": "<lora:GoblinSlayer_Receptionist_IlluXL:1>,side ponytail,braided ponytail,hair over shoulder,long hair,light brown hair,yellow eyes,blue vest,red brooch,yellow ascot,white shirt,juliet sleeves,arm ribbon,yellow ribbon,loose belt,black belt,long skirt,pencil skirt,black skirt,purple bikini,large breasts,side-tie bikini bottom,pendant,sleeveless dress,strapless dress,purple dress,"
+  },
+  "AmazonWarrior(Goblin slayer)": {
+    "aliases": [
+      "AmazonWarrior",
+      "Amazon Warrior",
+      "Amazon warrior",
+      "amazon warrior",
+      "amazonwarrior"
+    ],
+    "tags": "<lora:Goblin_Slayer_Amazon_Warrior_IL:1>,GSAmazonWarrior,1girl,solo,dark-skinned female,muscular female,large breasts,green eyes,black hair,long hair,circlet,blue gem,collar,earrings,jewelry,bracer,bikini armor,halterneck,crop top,blue panties,fingerless gloves,fur-trimmed boots,"
+  },
+  "wizard(Goblin slayer)": {
+    "aliases": [
+      "wizard",
+      "Wizard"
+    ],
+    "tags": "<lora:fighter-wizard-gs-illustrious:1>,w1z4rd,glasses,witch hat,cape,dress,green dress,elbow gloves,w1z4rd,glasses,short hair,cape,dress,green dress,elbow gloves,w1z4rd,glasses,short hair,strapless,dress,elbow gloves,"
+  },
+  "fighter(Goblinslayer)": {
+    "aliases": [
+      "fighter",
+      "Fighter"
+    ],
+    "tags": ",<lora:fighter-wizard-gs-illustrious:1>,f1ght3r,ponytail,multicolored robe,neckerchief,"
+  },
+  "Female Knight(Goblin Slayer)": {
+    "aliases": [
+      "female knight",
+      "Female knight",
+      "Female Knight"
+    ],
+    "tags": ",<lora:female-knight-s2-illustriousxl-lora-nochekaiser:1>,female knight,long hair,blue eyes,blonde hair,mature female,medium breasts,anime screencap,weapon,sword,cape,armor,shoulder armor,gauntlets,pauldrons,breastplate,knight,"
+  },
+  "Apprentice Cleric(GoblinSlayer)": {
+    "aliases": [
+      "apprentice cleric",
+      "Apprentice cleric",
+      "Apprentice Cleric"
+    ],
+    "tags": ",<lora:apprentice-cleric-s2-illustriousxl-lora-nochekaiser:1>,apprentice cleric,long hair,brown hair,purple eyes,ponytail,parted bangs,mature female,medium breasts,anime screencap,dress,belt,long sleeves,"
+  },
+  "CowGirl(GoblinSlayer)": {
+    "aliases": [
+      "CowGirl(GoblinSlayer)",
+      "cowgirl(GoblinSlayer)",
+      "Cowgirl(GoblinSlayer)"
+    ],
+    "tags": "<lora:GoblinSlayer_CowGirl_IlluXL:1>,short hair,hair between eyes,ahoge,red hair,purple eyes,pinafore dress,blouse,white shirt,frilled shirt,cleavage,large breasts,long sleeves,suspenders,loose belt,black belt,criss-cross halter,black bikini,large breasts,side-tie bikini bottom,"
+  },
+  "HighElf(Archer)": {
+    "aliases": [
+      "HighElf(Archer)",
+      "Archer",
+      "archer"
+    ],
+    "tags": "<lora:GoblinSlayer_HighElf(Archer)_IlluXL:1> short hair with long locks, low ponytail, green hair, green eyes, pointy ears, hair bow, black bow, multicolored dress, sleeveless dress, cross-laced dress, black belt, underbust, brown shorts, brown cloak, hooded cloak, bow \\(weapon\\), weapon on back, multicolored dress, sleeveless dress, cross-laced dress, asymmetrical gloves, black gloves, loose belt, black belt, underbust, brown shorts, green thighhighs, knee boots, brown footwear"
+  },
+  "Priestess(Gobling Slayer)": {
+    "aliases": [
+      "Priestess(Gobling Slayer)"
+    ],
+    "tags": "<lora:GoblinSlayer_Priestess_IlluXL:1>,long hair,hair between eyes,blonde hair,blue eyes,multicolored headwear,multicolored dress,white dress,blue dress,red brooch,juliet sleeves,"
+  },
+  "Sword Maiden": {
+    "aliases": [
+      "Sword Maiden",
+      "Sword maiden",
+      "sword maiden"
+    ],
+    "tags": "<lora:SwordMaiden-IL-v2:1>,ChopioMaiden,very long hair,blonde hair,hair between eyes,sidelocks,looking at viewer,anime coloring,mature female,large breasts,narrow waist,impossible clothes,outfit_1,habit,black blindfold,necklace,pendant,sleeveless dress,white dress,white cloak,bridal gauntlets,gold bracelet,ring,gold belt,draped sash,hip vents,blue loincloth,side slit,gladiator sandals,gold footwear,half up braid,hair bow,black bow,"
+  },
+  "_comment_league_of_legend": "===== LEAGUE OF LEGEND =====",
+  "Sona(League)": {
+    "aliases": [
+      "Sona"
+    ],
+    "tags": "sona \\(league of legends\\),league of legends,1girl,blue eyes,blue hair,very long hair,aqua hair,long hair,gradient hair,twintails,large breasts,cleavage,bare shoulders,<lora:StS_Age_Slider_Illustrious_v1:3>,"
+  },
+  "Nidalee(League)": {
+    "aliases": [
+      "Nidalee",
+      "nidalee"
+    ],
+    "tags": "<lora:Expressive_H:0.65>,expressiveh,/////,<lora:incase-ilff-v3-4:0.65>,/////,<lora:g0th1c2XLP:0.25>,g0th1c,/////,<lora:princess_xl_v2:0.75>,/////,<lora:add-detail-xl:1>,nidalee,league of legends,1girl,green eyes,yellow eyes,long hair,brown hair,black hair,very long hair,ponytail,large breasts,medium breasts,cleavage,navel,bare shoulders,forehead jewel,facial mark,Oiled skin,sweat,tall,wet hair,sexy,detailed eyes,beautiful,detailed background,perfect eyes,midriff,<lora:StS_Age_Slider_Illustrious_v1:2>,, tribal, facial mark, green eyes, brown hair, red scrunchie, long ponytail, forehead green jewelry, dark skin, colored skin, large breasts, tooth earrings, tooth neckleace, bare shoulders, midriff, navel, topless, tan marks, Oiled skin, sweat, tall, wet hair, sexy, alluring, 1girl, ponytail, long hair, breasts, dark skin, jewelry, dark-skinned female, green eyes,,"
+  },
+  "_comment_hotel_transylvania": "===== HOTEL TRANSYLVANIA =====",
+  "Winnie(Hotel transylvania)": {
+    "aliases": [
+      "Winnie",
+      "winnie"
+    ],
+    "tags": ",<lora:winnie-e100_s1400:1> werewolf, blue eyes, furry, ponytail, furry female, animal ears, jewelry,grown-up winnie hotel transylvania,1 girl , solo,"
+  },
+  "Eunice_Stein(Hotel transylvania)": {
+    "aliases": [
+      "Eunice Stein"
+    ],
+    "tags": "<lora:Eunice_Stein_Hotel_Transylvania:1> 1girl,solo, large breast,hairband, hair stripe, euinace_ht, eunice_stein, face stiches, blue skin, colored skin, bouffant, upturned nose, gold earrings,cowboy shot,bedroom,wide hips,"
+  },
+  "Wanda(Hotel transylvania)": {
+    "aliases": [
+      "Wanda",
+      "wanda the werewolf",
+      "wanda"
+    ],
+    "tags": "<lora:Wanda-e94_s846:1> 1girl, werewolf, brown hair, brown, furry, pattern yellow dress, yellow eyes, Wanda Werewolf Hotel Transylvania, large breasts,"
+  },
+  "Mummy(Hotel transylvania)": {
+    "aliases": [
+      "The Mummy",
+      "mummy",
+      "Mummy"
+    ],
+    "tags": "<lora:mummy_lady_HT:1> h0t3l_tr4nsylv4v4_mumm3y, solo, 1girl,not furry, blue headwear, undead, mummy wrappings, egyptian headdress, wraps, fully clothed, slim, wide hips, bondage skirt, egyptian neckwear, gold jewelry, face covered, bondage gloves, glowing eyes, green eyes,"
+  },
+  "Mavis": {
+    "aliases": [
+      "Mavis",
+      "Mavis Dracula",
+      "mavis",
+      "mavis dracula"
+    ],
+    "tags": "<lora:MavisDraculaV2ILLUSByJuninhoLara21:1> m4v15dr4cul4, 1girl, short hair, makeup, black lips, lipstick,"
+  },
+  "_comment_disney": "===== DISNEY =====",
+  "Ariel(little mermaid/disney princess)": {
+    "aliases": [
+      "Ariel",
+      "ariel"
+    ],
+    "tags": ",<lora:ArielPonyXL_character:1> arielxl, solo, breasts, shell, lipstick,anime screencap,"
+  },
+  "Jasmine": {
+    "aliases": [
+      "princess jasmine",
+      "Jasmine",
+      "Princess Jasmine",
+      "Jasmine"
+    ],
+    "tags": "<lora:Jasmine-IL_V2:0.8> JasmineXL, long hair, black hair, multi-tied hair, brown eyes, dark skin, makeup, necklace, earrings, hairband, off-shoulder shirt, blue shirt, midriff, blue pants, arabian clothes, official style,"
+  },
+  "_comment_jujutsu_kaisen": "===== JUJUTSU KAISEN =====",
+  "gojou satoru": {
+    "aliases": [
+      "gojou satoru",
+      "Satomi Gojo",
+      "Satomi",
+      "Gojo Satomi",
+      "Satoru Gojou",
+      "satami"
+    ],
+    "tags": "gojou satoru, jujutsu kaisen, 1girl, hair between eyes, colored eyelashes, long hair, white hair, black jacket, long sleeves,big breasts,solo,messy hair, <lora:jujutsu_kaisen_style_ilxl:1> jujutsu_kaisen_style,"
+  },
+  "_comment_gate:": "===== GATE: =====",
+  "Shino_Kuribayashi(Gate)": {
+    "aliases": [
+      "Kuribayashi",
+      "Shino_Kuribayashi",
+      "Shino Kuribayashi",
+      "Kuribayashi Shino"
+    ],
+    "tags": "<lora:Shino_Kuribayashi_Gate_IL_V1:1> brown hair, brown eyes, side ponytail, hair between eyes, kjoshino, short hair, asymmetrical bangs, 1girl, solo, anime coloring"
+  },
+  "_comment_jojo(bizarreadventure)": "===== JOJO(BIZARREADVENTURE) =====",
+  "Dio(Jojo)": {
+    "aliases": [
+      "Dio",
+      "Dio brando",
+      "brando dio"
+    ],
+    "tags": ",<lora:DioBrando(Female)Frankeinstein:1> DioBrandoFR, 1girl, solo, golden, hair, yellow, eyes, dio, brando,dio brando,"
+  },
+  "_comment_nickoledeon": "===== NICKOLEDEON =====",
+  "Ember(DannyFantome)": {
+    "aliases": [
+      "Ember Mclain",
+      "ember mclain"
+    ],
+    "tags": ",<lora:Ember_McLain_ILL:1> green eyes, 1girl, earrings, makeup, ponytail, colored skin, lipstick, long hair, choker, aqua hair, ember, white skin, eyeliner, solo, jewelry, purple lips"
+  },
+  "Danny_Phantom": {
+    "aliases": [
+      "Danny_Phantom",
+      "danny fantome",
+      "danny phantom",
+      "danny"
+    ],
+    "tags": ",<lora:Danny_Phantom_Character_Illustrious_SD8:1> 1girl, danny_phantom, long_hair, solo"
+  },
+  "Star(DannyFantome)": {
+    "aliases": [
+      "Stardp",
+      "stardp"
+    ],
+    "tags": ",<lora:stardpillustrious:1> stardp, 1girl, solo, blonde hair, long hair, flower, aqua eyes, hair flower, hair ornament, makeup, lipstick, eyelashes, lips"
+  },
+  "Shego(kimpossible)": {
+    "aliases": [
+      "Shego",
+      "shego"
+    ],
+    "tags": ",<lora:ShegoIllustrious1.0JLFO:1> shego, 1girl, solo, long hair, black lips, black hair, choker, green eyes, hairband, earrings,"
+  },
+  "Kitty(Dannyfantome)": {
+    "aliases": [
+      "Kitty",
+      "kitty"
+    ],
+    "tags": ",<lora:Kitty_Danny_Phantom_Epsilon_Pred_Illustrious_Edition:1> kitty, 1girl,solo,long hair, green hair, red eyes, purple lips, navel, fishnets"
+  },
+  "Paulina(DannyFantome)": {
+    "aliases": [
+      "Paulina",
+      "paulina"
+    ],
+    "tags": ",<lora:NM_DP_Paulina_ill:1> nm_paulina_dp, 1girl, black hair, long hair, dark skin, dark-skinned female, solo, makeup, breasts, navel, midriff, hair ornament, eyeshadow, hairclip"
+  },
+  "jazz fenton(Dannyfantome)": {
+    "aliases": [
+      "jazz fenton",
+      "fenton jazz",
+      "fantome jazz",
+      "jazz fantome"
+    ],
+    "tags": "<lora:Jazz_Fenton_Danny_Phantom:1> jazz fenton, jazz fenton (dp), orange hair, long hair, hairband, aqua eyes, red lips, large breasts, 1girl, solo"
+  },
+  "Boonie(Kimpossible)": {
+    "aliases": [
+      "Boonie(Kimpossible)"
+    ],
+    "tags": "<lora:NM_kp_bonnie:1> nm_kp_bonnie, brown hair, 1girl, solo, green eyes, long hair, breasts, midriff, medium hair"
+  },
+  "Dani(TinyDannyfantome)": {
+    "aliases": [
+      "dani",
+      "dani phantom",
+      "dani fantome"
+    ],
+    "tags": ",<lora:dani_222:1> 1girl, dani phantom, white hair, solo, long hair, smile, green eyes, ponytail, makeup, lipstick, breasts,"
+  },
+  "Desiree(DannyFantome)": {
+    "aliases": [
+      "Desiree",
+      "desiree"
+    ],
+    "tags": ",<lora:Desiree_(DannyPhantom)_FRV1:1> desireeFR,1girl,solo,black hair,red eyes,long hair,purple eyeliners,golden collar,hair over one eyes,"
+  },
+  "_comment_marvel_rival": "===== MARVEL RIVAL =====",
+  "Susan Storm": {
+    "aliases": [
+      "Susan Storm",
+      "susan storm"
+    ],
+    "tags": "<lora:InvisibleWomanK112:1> IW, blonde hair, blue eyes, bangs,"
+  },
+  "_comment_boku_no_hero": "===== BOKU NO HERO =====",
+  "Mei hatsume(mecaniciangirl)": {
+    "aliases": [
+      "Mei hatsume",
+      "Hatsume Mei"
+    ],
+    "tags": "hatsume_mei"
+  },
+  "Toru Hagakure": {
+    "aliases": [
+      "Toru Hagakure",
+      "Hagakure Toru"
+    ],
+    "tags": "hagakure_tooru"
+  },
+  "Mina Ashido": {
+    "aliases": [
+      "Mina Ashido",
+      "Ashido Mina"
+    ],
+    "tags": "ashido_mina"
+  },
+  "Kyoka Jiro": {
+    "aliases": [
+      "Kyoka Jiro",
+      "Jiro Kyoka"
+    ],
+    "tags": "jirou_kyouka"
+  },
+  "Tsuyu Asui": {
+    "aliases": [
+      "Tsuyu Asui",
+      "Asui Tsuyu"
+    ],
+    "tags": "asui_tsuyu"
+  },
+  "Ochaco Uraraka": {
+    "aliases": [
+      "Ochaco Uraraka",
+      "Uraraka Ochaco"
+    ],
+    "tags": "uraraka_ochako,"
+  },
+  "Momo Yaoyorozu": {
+    "aliases": [
+      "Momo Yaoyorozu",
+      "Yaoyorozu Momo"
+    ],
+    "tags": "yaoyorozu_momo,"
+  },
+  "_comment_date_a_live": "===== DATE A LIVE =====",
+  "Maria Arusu": {
+    "aliases": [
+      "Maria Arusu",
+      "Arusu Maria"
+    ],
+    "tags": "arusu maria, date a live,"
+  },
+  "Mana Takamiya": {
+    "aliases": [
+      "Mana Takamiya",
+      "Takamiya Mana"
+    ],
+    "tags": "takamiya mana, date a live,"
+  },
+  "Tenka Yatogami (Inverse Tohka)": {
+    "aliases": [
+      "Tenka Yatogami (Inverse Tohka)",
+      "Tenka Yatogami",
+      "Yatogami Tenka"
+    ],
+    "tags": "yatogami tenka, date a live, 1girl, purple eyes, hair between eyes, purple hair, black hair, long hair, very long hair, hair bow, medium breasts, cleavage, navel, elbow gloves, black gloves, armored dress"
+  },
+  "Mukuro Hoshimiya (Spirit #10 — Zodiac)": {
+    "aliases": [
+      "Mukuro Hoshimiya",
+      "Hoshimiya Mukuro"
+    ],
+    "tags": "hoshimiya mukuro, date a live, 1girl, yellow eyes, hair between eyes, blonde hair, very long hair, long hair, double bun, large breasts,"
+  },
+  "Nia Honjou (Spirit #9 — Sister)": {
+    "aliases": [
+      "Nia Honjou",
+      "Honjou Nia"
+    ],
+    "tags": "honjou nia, date a live, 1girl, blue eyes, glasses, grey hair, short hair, small breasts"
+  },
+  "Origami Tobiichi (Spirit #8 — Angel)": {
+    "aliases": [
+      "Origami Tobiichi",
+      "Tobiichi Origami"
+    ],
+    "tags": "tobiichi origami, date a live, 1girl, blue eyes, hair between eyes, white hair, short hair, hairclip, medium breasts"
+  },
+  "Natsumi (Spirit #7 — Witch)": {
+    "aliases": [
+      "Natsumi"
+    ],
+    "tags": "natsumi \\(date a live\\), date a live,"
+  },
+  "Miku Izayoi (Spirit #6 — Diva)": {
+    "aliases": [
+      "Miku Izayoi",
+      "Izayo Miku"
+    ],
+    "tags": "izayoi miku, date a live, 1girl, purple eyes, hair between eyes, blue hair, purple hair, long hair, twin drills, large breasts, hair flower"
+  },
+  "Yuzuru Yamai (Spirit #5 — Hurricane)": {
+    "aliases": [
+      "Yuzuru Yamai",
+      "Yamai Yuzuru"
+    ],
+    "tags": "yamai yuzuru, date a live, 1girl, blue eyes, hair between eyes, orange hair, long hair, very long hair, blonde hair, single braid, sidelocks, medium breasts, navel, twin drills,"
+  },
+  "Kaguya Yamai (Spirit #5 — Berserk)": {
+    "aliases": [
+      "Yamai Kaguya",
+      "Kaguya Yamai"
+    ],
+    "tags": "yamai kaguya, date a live, 1girl, blue eyes, hair between eyes, orange hair, long hair, drill hair, sidelocks, braid, medium breasts, navel, bare shoulders"
+  },
+  "Kotori Itsuka (Spirit #4 — Efreet)": {
+    "aliases": [
+      "Kotori Itsuka",
+      "Itsuka Kotori"
+    ],
+    "tags": "itsuka kotori, date a live, 1girl, red eyes, hair between eyes, red hair, very long hair, long hair, twintails, ahoge, hair ribbon, small breasts"
+  },
+  "Kurumi Tokisaki (Spirit #3 — Nightmare)": {
+    "aliases": [
+      "Kurumi Tokisaki",
+      "Tokisaki Kurumi"
+    ],
+    "tags": "tokisaki kurumi, date a live, 1girl, lolita hairband, heterochromia, red eyes, yellow eyes, clock eyes, black hair, long hair, twintails, medium breasts, large breasts, cleavage, bare shoulders"
+  },
+  "Yoshinon (her puppet)": {
+    "aliases": [
+      "Yoshinon"
+    ],
+    "tags": "yoshinon, date a live, 1girl, rabbit ears, blue eyes, hair between eyes, eyepatch, blue hair, long hair, hand puppet"
+  },
+  "Yoshino (Spirit #2 — Hermit": {
+    "aliases": [
+      "Yoshino"
+    ],
+    "tags": "yoshino \\(date a live\\), date a live,"
+  },
+  "Tohka Yatogami (Spirit #1 — Princess)": {
+    "aliases": [
+      "yatogami tooka",
+      "Tohka Yatogami"
+    ],
+    "tags": "yatogami tooka, date a live,"
+  }
+}
