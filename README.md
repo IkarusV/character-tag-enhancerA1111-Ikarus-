@@ -29,6 +29,7 @@ Disclaimer: Character manager app is a standalone app it don't need your image i
 <img width="3289" height="1246" alt="image" src="https://github.com/user-attachments/assets/f22f757c-2ea7-4e86-8b86-a00e13aeaa0f" />
 
 To run it well just run character_manager.py you can move this folder somewhere else if u want too.
+You can change the setting for the folder where it save the files and of course dowload it manually if needed.
 
 
 ## Usage
