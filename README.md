@@ -1,7 +1,7 @@
 # Character Tag Enhancer Extension
 
 ## Description
-Automatically replaces character names in prompts with detailed Danbooru-style tags/or Caption(default to danboru but you can activate the caption mode and it'll ignore the danbogu tags field and only use the caption field !) for consistent character generation.
+Automatically replaces character names/trigger word in the prompt in realtime before the image generate with detailed Danbooru-style tags/or Caption(default to danboru but you can activate the caption mode and it'll ignore the danbogu tags field and only use the caption field !) for consistent character generation.
 (Work both on the Webui and as endpoint by Exemple if you had an app/website or anything make an api request to A111/forgeNeo to generate an image this extensions will still work and update the prompt before the image actually start generating so it should work in every situation smoothly.)
 
 ## Features
